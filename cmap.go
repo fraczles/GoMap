@@ -1,11 +1,12 @@
 package main
 
+//import "fmt"
 
 type emap struct{
     sharedMap map[string]int
     stop chan bool
-    readers chan string
-    writers chan int
+    readers chan int
+    writers chan string
     //Several channels
 }
 
@@ -13,46 +14,48 @@ type emap struct{
 func NewChannelMap() *emap {
 
     //Initialize map and channels
-    c := emap{}
-    c.sharedMap = make(map[string]int)
-    c.stop = make(chan bool)
-    c.readers = make(chan string, ASK_BUFFER_SIZE)
-    c.writers = make(chan int, ADD_BUFFER_SIZE)
-    return &c
+    em := emap{}
+    em.sharedMap = make(map[string]int)
+    em.stop = make(chan bool)
+    em.readers = make(chan int, ASK_BUFFER_SIZE)
+    em.writers = make(chan string, ADD_BUFFER_SIZE)
+    return &em
 }
 
 //Implement interface functions
-func (c *emap) Listen() {
+func (em *emap) Listen() {
     for {
         select {
-            case
+            case <-em.writers:
+                //------threads are writing here --------
+                str := <-em.writers
+                if count, exists := em.sharedMap[str]; exists {
+                    //word exists in map
+                    em.sharedMap[str] = count + 1
+                } else{
+                    //word doesn't exist in map
+                    em.sharedMap[str] = 1
+                }
+
+            case <-em.readers: //threads want to write
 
 
-
-
-            case <-c.stop: //stuff
+            case <-em.stop: //stop
                 return
         }
     }
 }
 
-func (c *emap) Stop() {
-    c.stop <- true
+func (em *emap) Stop() {
+    em.stop <- true
 }
-func (c *emap) Reduce(functor ReduceFunc, accum_str string, accum_int int) (string, int) {
-    return "", 0
+func (em *emap) Reduce(functor ReduceFunc, accum_str string, accum_int int) (string, int) {
+    return " ", 0
 }
-func (c *emap) AddWord(word string) {
-    // Word exists in map
-    if num, exists := c.sharedMap[word]; exists {
-        num = num + 1
-    } else {
-        c.sharedMap[word] = 1
-    }
-    
-    
+func (em *emap) AddWord(word string) {
+    em.writers <- word
+}
+func (em *emap) GetCount(word string) int {
 
-}
-func (c *emap) GetCount(word string) int {
     return 0
 }

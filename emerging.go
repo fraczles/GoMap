@@ -54,7 +54,10 @@ func main() {
 	fmt.Println("Creating Map")
 	var emap EmergingMap
 
- 
+	emap = NewChannelMap()
+
+	fmt.Println(*arg_infiles)
+
 	go emap.Listen()
 
 	fmt.Println("Reading query file")
