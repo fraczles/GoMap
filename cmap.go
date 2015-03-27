@@ -3,7 +3,7 @@ package main
 
 type emap struct{
     sharedMap map[string]int
-    listen chan bool
+    stop chan bool
     //Several channels
 }
 
@@ -16,7 +16,13 @@ func (c *emap) NewChannelMap() *emap {
 
 //Implement interface functions
 func (c *emap) Listen() {
-    c.listen <- true
+    for {
+        select {
+        case <- //stuff
+        case <-c.stop:
+            return
+        }
+    }
 }
 func (c *emap) Stop() {
     c.listen <- false
