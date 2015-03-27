@@ -39,7 +39,7 @@ type EmergingMap interface {
 	Listen()
 	Stop()
 
-        Reduce(functor ReduceFunc, accum_str string, accum_int int) (string, int)
+    Reduce(functor ReduceFunc, accum_str string, accum_int int) (string, int)
 	AddWord(word string)
 	GetCount(word string) int
 }
