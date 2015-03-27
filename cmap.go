@@ -5,26 +5,35 @@ type emap struct{
     sharedMap map[string]int
     stop chan bool
     readers chan string
+    writers chan int
     //Several channels
 }
 
 //Constructor?
 func NewChannelMap() *emap {
+
+    //Initialize map and channels
     c := emap{}
     c.sharedMap = make(map[string]int)
-    c.stop <- false
+    c.stop = make(chan bool)
+    c.readers = make(chan string, ASK_BUFFER_SIZE)
+    c.writers = make(chan int, ADD_BUFFER_SIZE)
     return &c
 }
 
 //Implement interface functions
 func (c *emap) Listen() {
-    fmt.Println("Yo")
-    // for {
-    //     select {
-    //     case <-c.stop: //stuff
-    //         return
-    //     }
-    // }
+    for {
+        select {
+            case
+
+
+
+
+            case <-c.stop: //stuff
+                return
+        }
+    }
 }
 
 func (c *emap) Stop() {
