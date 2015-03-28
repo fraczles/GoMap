@@ -1,1 +1,1 @@
-GoMap: concurrent reads/writes from shared data structure using channels
+go build emerging.go cmap.go
