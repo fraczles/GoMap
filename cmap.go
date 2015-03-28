@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+//import "fmt"
 
 type emap struct{
     sharedMap map[string]int
@@ -37,7 +37,8 @@ func (em *emap) Listen() {
         select {
 
             case <-em.reduceRequest:
-                em.reduceRequest <- 0
+                //em.reduceRequest <- 0
+                em.reduceResponse <- 0
                 <- em.doneReducing
 
             case str := <-em.writers:
@@ -73,13 +74,13 @@ func (em *emap) Stop() {
     em.stop <- 1
 }
 func (em *emap) Reduce(functor ReduceFunc, accum_str string, accum_int int) (string, int) {
-    fmt.Println("============FROM REDUCE  1============")
+    //fmt.Println("============FROM REDUCE  1============")
     em.reduceRequest <- 1
-    fmt.Println("============FROM REDUCE  1.25============")
-    fmt.Println(<-em.reduceRequest)
-    fmt.Println("============FROM REDUCE  1.5============")
+    //fmt.Println("============FROM REDUCE  1.25============")
+    //fmt.Println(<-em.reduceRequest)
+    //fmt.Println("============FROM REDUCE  1.5============")
     <-em.reduceResponse
-    fmt.Println("============FROM REDUCE  2============")
+    //fmt.Println("============FROM REDUCE  2============")
     for k,v := range em.sharedMap{
         if accum_int == 0{
             accum_str, accum_int = k, v

@@ -97,7 +97,7 @@ func main() {
 		ask_kill <- 1
 	//}
         reduce_kill <- 1
-	fmt.Println("Calling Stop...")
+	//fmt.Println("Calling Stop...")
 	emap.Stop()
 	fmt.Println("Map Stopped\n")
 
