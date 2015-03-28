@@ -45,6 +45,7 @@ type EmergingMap interface {
 }
 
 func main() {
+	start := time.Now()
 	rand.Seed(time.Now().UnixNano())
 	runtime.GOMAXPROCS(8)
 	flag.Parse()
@@ -103,6 +104,8 @@ func main() {
 
 	fmt.Println("Total words added:  ", totalWords)
 	fmt.Println("Total queries made: ", totalQueries)
+	elapsed := time.Since(start)
+	fmt.Println("Execution time: ", elapsed)
 
 }
 
