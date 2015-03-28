@@ -1,0 +1,1768 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 2921 lines of pg1041.txt
+Reading 3438 lines of pg1107.txt
+Reading 4854 lines of pg1112.txt
+Reading 4789 lines of pg1103.txt
+Reduction result: the 12
+Reduction result: the 18
+1000 words added
+Reduction result: of 33
+Reduction result: of 58
+Reduction result: of 63
+2000 words added
+Reduction result: of 79
+Reduction result: of 86
+Reduction result: of 92
+3000 words added
+Reduction result: of 100
+Reduction result: the 117
+Reduction result: the 127
+4000 words added
+Reduction result: the 136
+1000 queries made
+Reduction result: the 145
+5000 words added
+Reduction result: the 156
+Reduction result: the 165
+Reduction result: the 172
+6000 words added
+Reduction result: the 185
+Reduction result: the 204
+Reduction result: the 215
+7000 words added
+Reduction result: the 228
+Reduction result: the 234
+8000 words added
+Reduction result: the 245
+Reduction result: the 253
+Reduction result: the 260
+9000 words added
+Reduction result: the 264
+2000 queries made
+Reduction result: the 271
+Reduction result: the 277
+10000 words added
+Reduction result: the 286
+Reduction result: the 296
+Reduction result: the 305
+11000 words added
+Reduction result: the 315
+Reduction result: the 322
+12000 words added
+Reduction result: the 330
+Reduction result: the 343
+Reduction result: the 360
+13000 words added
+Reduction result: the 373
+Reduction result: the 378
+3000 queries made
+14000 words added
+Reduction result: the 389
+Reduction result: the 395
+Reduction result: the 406
+15000 words added
+Reduction result: the 412
+Reduction result: the 420
+Reduction result: the 427
+16000 words added
+Reduction result: the 436
+Reduction result: the 449
+17000 words added
+Reduction result: the 458
+Reduction result: the 462
+Reduction result: the 471
+18000 words added
+Reduction result: the 474
+Reduction result: the 491
+4000 queries made
+19000 words added
+Reduction result: the 495
+Reduction result: the 502
+Reduction result: the 511
+20000 words added
+Reduction result: the 517
+Reduction result: the 532
+21000 words added
+Reduction result: the 544
+Reduction result: the 554
+Reduction result: the 570
+22000 words added
+Reduction result: the 583
+Reduction result: the 591
+Reduction result: the 601
+23000 words added
+Reduction result: the 604
+5000 queries made
+Reduction result: the 611
+24000 words added
+Reduction result: the 616
+Reduction result: the 621
+Reduction result: the 624
+25000 words added
+Reduction result: the 635
+Reduction result: the 639
+26000 words added
+Reduction result: the 643
+Reduction result: the 650
+Reduction result: the 656
+27000 words added
+Reduction result: the 664
+Reduction result: the 671
+28000 words added
+Reduction result: the 677
+Reduction result: the 686
+6000 queries made
+Reduction result: the 693
+29000 words added
+Reduction result: the 700
+Reduction result: the 709
+30000 words added
+Reduction result: the 714
+Reduction result: the 725
+Reduction result: the 728
+31000 words added
+Reduction result: the 738
+Reduction result: the 746
+Reduction result: the 754
+32000 words added
+Reduction result: the 764
+Reduction result: the 775
+33000 words added
+Reduction result: the 785
+7000 queries made
+Reduction result: the 794
+Reduction result: the 806
+34000 words added
+Reduction result: the 815
+Reduction result: the 829
+35000 words added
+Reduction result: the 841
+Reduction result: the 848
+Reduction result: the 856
+36000 words added
+Reduction result: the 859
+Reduction result: the 870
+37000 words added
+Reduction result: the 876
+Reduction result: the 882
+Reduction result: the 887
+38000 words added
+Reduction result: the 899
+8000 queries made
+Reduction result: the 913
+Reduction result: the 929
+39000 words added
+Reduction result: the 942
+Reduction result: the 952
+40000 words added
+Reduction result: the 966
+Reduction result: the 978
+Reduction result: the 984
+41000 words added
+Reduction result: the 989
+Reduction result: the 991
+Reduction result: the 1002
+Reduction result: the 1009
+42000 words added
+Reduction result: the 1012
+Reduction result: the 1018
+9000 queries made
+43000 words added
+Reduction result: the 1022
+Reduction result: the 1028
+Reduction result: the 1035
+44000 words added
+Reduction result: the 1040
+Reduction result: the 1052
+45000 words added
+Reduction result: the 1056
+Reduction result: the 1067
+Reduction result: the 1070
+46000 words added
+Reduction result: the 1082
+Reduction result: the 1088
+47000 words added
+Reduction result: the 1092
+Reduction result: the 1097
+10000 queries made
+Reduction result: the 1111
+48000 words added
+Reduction result: the 1119
+Reduction result: the 1129
+Reduction result: the 1133
+49000 words added
+Reduction result: the 1147
+Reduction result: the 1153
+50000 words added
+Reduction result: the 1158
+Reduction result: the 1172
+Reduction result: the 1175
+51000 words added
+Reduction result: the 1178
+Reduction result: the 1191
+Reduction result: the 1197
+52000 words added
+Reduction result: the 1210
+11000 queries made
+Reduction result: the 1218
+Reduction result: the 1225
+53000 words added
+Reduction result: the 1233
+Reduction result: the 1241
+Reduction result: the 1250
+Reduction result: the 1264
+54000 words added
+Reduction result: the 1274
+Reduction result: the 1282
+55000 words added
+Reduction result: the 1289
+Reduction result: the 1294
+Reduction result: the 1301
+56000 words added
+Reduction result: the 1307
+Reduction result: the 1319
+12000 queries made
+57000 words added
+Reduction result: the 1334
+Reduction result: the 1345
+Reduction result: the 1358
+58000 words added
+Reduction result: the 1365
+Reduction result: the 1373
+Reduction result: the 1382
+59000 words added
+Reduction result: the 1392
+Reduction result: the 1402
+60000 words added
+Reduction result: the 1411
+Reduction result: the 1418
+Reduction result: the 1427
+61000 words added
+Reduction result: the 1435
+13000 queries made
+Reduction result: the 1440
+62000 words added
+Reduction result: the 1445
+Reduction result: the 1453
+Reduction result: the 1461
+63000 words added
+Reduction result: the 1469
+Reduction result: the 1479
+Reduction result: the 1485
+64000 words added
+Reduction result: the 1493
+Reduction result: the 1500
+65000 words added
+Reduction result: the 1507
+Reduction result: the 1515
+Reduction result: the 1529
+66000 words added
+Reduction result: the 1533
+14000 queries made
+Reduction result: the 1544
+Reduction result: the 1548
+67000 words added
+Reduction result: the 1558
+Reduction result: the 1568
+Reduction result: the 1581
+68000 words added
+Reduction result: the 1590
+Reduction result: the 1598
+69000 words added
+Reduction result: the 1602
+Reduction result: the 1612
+Reduction result: the 1620
+70000 words added
+Reduction result: the 1634
+Reduction result: the 1642
+15000 queries made
+71000 words added
+Reduction result: the 1649
+Reduction result: the 1654
+Reduction result: the 1659
+72000 words added
+Reduction result: the 1666
+Reduction result: the 1672
+Reduction result: the 1678
+73000 words added
+Reduction result: the 1681
+Reduction result: the 1689
+Reduction result: the 1696
+74000 words added
+Reduction result: the 1700
+Reduction result: the 1713
+Reduction result: the 1722
+75000 words added
+Reduction result: the 1731
+16000 queries made
+Reduction result: the 1737
+Reduction result: the 1746
+76000 words added
+Reduction result: the 1759
+Reduction result: the 1766
+Reduction result: the 1774
+77000 words added
+Reduction result: the 1782
+Reduction result: the 1800
+Reduction result: the 1806
+78000 words added
+Done Reading pg1041.txt
+Reduction result: the 1820
+Reduction result: the 1824
+Reduction result: the 1835
+79000 words added
+Reduction result: the 1838
+Reduction result: the 1849
+17000 queries made
+Reduction result: the 1854
+Reduction result: the 1858
+80000 words added
+Reduction result: the 1862
+Reduction result: the 1868
+Reduction result: the 1874
+Reduction result: the 1881
+81000 words added
+Reduction result: the 1887
+Reduction result: the 1896
+Reduction result: the 1903
+Reduction result: the 1913
+82000 words added
+Reduction result: the 1916
+Reduction result: the 1921
+18000 queries made
+Reduction result: the 1929
+Reduction result: the 1932
+83000 words added
+Reduction result: the 1939
+Reduction result: the 1944
+Reduction result: the 1953
+Reduction result: the 1960
+84000 words added
+Reduction result: the 1968
+Reduction result: the 1976
+Reduction result: the 1983
+85000 words added
+Reduction result: the 1987
+Reduction result: the 1996
+Reduction result: the 2005
+Reduction result: the 2012
+86000 words added
+19000 queries made
+Reduction result: the 2021
+Reduction result: the 2031
+Reduction result: the 2033
+87000 words added
+Reduction result: the 2039
+Reduction result: the 2042
+Reduction result: the 2045
+Reduction result: the 2049
+88000 words added
+Reduction result: the 2052
+Reduction result: the 2063
+Reduction result: the 2064
+Reduction result: the 2067
+89000 words added
+Reduction result: the 2069
+Reduction result: the 2077
+20000 queries made
+Reduction result: the 2082
+Reduction result: the 2086
+Reduction result: the 2091
+90000 words added
+Reduction result: the 2092
+Reduction result: the 2092
+Reduction result: the 2092
+Reduction result: the 2093
+Reduction result: the 2094
+Reduction result: the 2094
+Reduction result: the 2102
+Reduction result: the 2106
+Reduction result: the 2111
+91000 words added
+Reduction result: the 2115
+Reduction result: the 2120
+21000 queries made
+Reduction result: the 2122
+Reduction result: the 2129
+Done Reading pg1107.txt
+Reduction result: the 2132
+92000 words added
+Reduction result: the 2136
+Reduction result: the 2137
+Reduction result: the 2141
+Reduction result: the 2143
+Reduction result: the 2146
+Reduction result: the 2148
+93000 words added
+Reduction result: the 2150
+Reduction result: the 2155
+Reduction result: the 2158
+Reduction result: the 2172
+22000 queries made
+Reduction result: the 2178
+Reduction result: the 2180
+Reduction result: the 2180
+Reduction result: the 2180
+Reduction result: the 2180
+Reduction result: the 2181
+Reduction result: the 2182
+Reduction result: the 2185
+94000 words added
+Reduction result: the 2189
+Reduction result: the 2194
+Reduction result: the 2198
+Reduction result: the 2200
+Reduction result: the 2203
+Reduction result: the 2210
+95000 words added
+Reduction result: the 2214
+Reduction result: the 2219
+23000 queries made
+Reduction result: the 2224
+Reduction result: the 2226
+Reduction result: the 2227
+Reduction result: the 2233
+96000 words added
+Reduction result: the 2238
+Reduction result: the 2241
+Reduction result: the 2245
+Reduction result: the 2249
+Reduction result: the 2253
+Reduction result: the 2257
+Reduction result: the 2265
+97000 words added
+Reduction result: the 2271
+Reduction result: the 2276
+24000 queries made
+Reduction result: the 2276
+Reduction result: the 2276
+Reduction result: the 2276
+Reduction result: the 2280
+Reduction result: the 2281
+Reduction result: the 2281
+Reduction result: the 2281
+Reduction result: the 2281
+Reduction result: the 2282
+Reduction result: the 2283
+Reduction result: the 2283
+Reduction result: the 2283
+Reduction result: the 2283
+Reduction result: the 2284
+Reduction result: the 2284
+Reduction result: the 2286
+Reduction result: the 2287
+Reduction result: the 2287
+Reduction result: the 2288
+Reduction result: the 2289
+Reduction result: the 2290
+Reduction result: the 2292
+Reduction result: the 2294
+Reduction result: the 2298
+25000 queries made
+Reduction result: the 2303
+Reduction result: the 2304
+Reduction result: the 2305
+Reduction result: the 2306
+Reduction result: the 2307
+Reduction result: the 2309
+Reduction result: the 2310
+Reduction result: the 2311
+Reduction result: the 2312
+Reduction result: the 2312
+98000 words added
+Reduction result: the 2312
+Reduction result: the 2312
+Reduction result: the 2313
+Reduction result: the 2313
+Reduction result: the 2314
+Reduction result: the 2315
+Reduction result: the 2316
+Reduction result: the 2316
+Reduction result: the 2316
+Reduction result: the 2316
+Reduction result: the 2316
+Reduction result: the 2318
+Reduction result: the 2319
+26000 queries made
+Reduction result: the 2320
+Reduction result: the 2320
+Reduction result: the 2321
+Reduction result: the 2323
+Reduction result: the 2324
+Reduction result: the 2325
+Reduction result: the 2325
+Reduction result: the 2325
+Reduction result: the 2326
+Reduction result: the 2326
+Reduction result: the 2326
+Reduction result: the 2326
+Reduction result: the 2326
+Reduction result: the 2327
+Reduction result: the 2328
+Reduction result: the 2329
+Reduction result: the 2329
+Reduction result: the 2330
+Reduction result: the 2331
+Reduction result: the 2331
+Reduction result: the 2332
+Reduction result: the 2332
+Reduction result: the 2332
+Reduction result: the 2332
+Reduction result: the 2332
+Reduction result: the 2333
+27000 queries made
+Reduction result: the 2334
+Reduction result: the 2336
+Reduction result: the 2336
+Reduction result: the 2336
+Reduction result: the 2336
+Reduction result: the 2336
+Reduction result: the 2339
+Reduction result: the 2339
+Reduction result: the 2340
+Reduction result: the 2341
+Reduction result: the 2341
+Reduction result: the 2342
+Reduction result: the 2343
+Reduction result: the 2343
+Reduction result: the 2344
+Reduction result: the 2344
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2345
+Reduction result: the 2346
+99000 words added
+Reduction result: the 2347
+Reduction result: the 2348
+Reduction result: the 2350
+28000 queries made
+Reduction result: the 2350
+Reduction result: the 2350
+Reduction result: the 2350
+Reduction result: the 2352
+Reduction result: the 2352
+Reduction result: the 2353
+Reduction result: the 2353
+Reduction result: the 2353
+Reduction result: the 2354
+Reduction result: the 2354
+Reduction result: the 2355
+Reduction result: the 2355
+Reduction result: the 2355
+Reduction result: the 2356
+Reduction result: the 2357
+Reduction result: the 2357
+Reduction result: the 2358
+Reduction result: the 2360
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+29000 queries made
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2361
+Reduction result: the 2362
+Reduction result: the 2362
+Reduction result: the 2363
+Reduction result: the 2363
+Reduction result: the 2366
+Reduction result: the 2367
+Reduction result: the 2369
+Reduction result: the 2370
+Reduction result: the 2371
+Reduction result: the 2371
+Reduction result: the 2372
+Reduction result: the 2373
+Reduction result: the 2374
+Reduction result: the 2376
+Reduction result: the 2379
+Reduction result: the 2380
+Reduction result: the 2380
+Reduction result: the 2380
+Reduction result: the 2381
+Reduction result: the 2382
+Reduction result: the 2383
+Reduction result: the 2383
+Reduction result: the 2383
+Reduction result: the 2383
+Reduction result: the 2384
+Reduction result: the 2384
+30000 queries made
+Reduction result: the 2384
+Reduction result: the 2385
+Reduction result: the 2385
+Reduction result: the 2385
+Reduction result: the 2386
+Reduction result: the 2388
+Reduction result: the 2390
+Reduction result: the 2391
+Reduction result: the 2392
+Reduction result: the 2393
+Reduction result: the 2393
+Reduction result: the 2394
+100000 words added
+Reduction result: the 2396
+Reduction result: the 2396
+Reduction result: the 2397
+Reduction result: the 2398
+Reduction result: the 2399
+Reduction result: the 2399
+Reduction result: the 2399
+Reduction result: the 2400
+Reduction result: the 2400
+Reduction result: the 2400
+Reduction result: the 2401
+Reduction result: the 2401
+Reduction result: the 2401
+Reduction result: the 2401
+Reduction result: the 2401
+Reduction result: the 2401
+Reduction result: the 2402
+Reduction result: the 2403
+Reduction result: the 2404
+Reduction result: the 2405
+31000 queries made
+Reduction result: the 2405
+Reduction result: the 2406
+Reduction result: the 2406
+Reduction result: the 2407
+Reduction result: the 2408
+Reduction result: the 2409
+Reduction result: the 2410
+Reduction result: the 2411
+Reduction result: the 2411
+Reduction result: the 2412
+Reduction result: the 2412
+Reduction result: the 2412
+Reduction result: the 2412
+Reduction result: the 2413
+Reduction result: the 2413
+Reduction result: the 2413
+Reduction result: the 2413
+Reduction result: the 2414
+Reduction result: the 2415
+Reduction result: the 2415
+Reduction result: the 2415
+Reduction result: the 2415
+Reduction result: the 2418
+Reduction result: the 2418
+Reduction result: the 2419
+Reduction result: the 2419
+Reduction result: the 2419
+Reduction result: the 2419
+Reduction result: the 2420
+Reduction result: the 2420
+Reduction result: the 2421
+Reduction result: the 2421
+Reduction result: the 2422
+32000 queries made
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2423
+Reduction result: the 2424
+Reduction result: the 2424
+Reduction result: the 2425
+Reduction result: the 2426
+Reduction result: the 2428
+Reduction result: the 2428
+Reduction result: the 2428
+Reduction result: the 2428
+Reduction result: the 2428
+Reduction result: the 2429
+Reduction result: the 2429
+Reduction result: the 2431
+Reduction result: the 2431
+Reduction result: the 2431
+Reduction result: the 2431
+Reduction result: the 2432
+Reduction result: the 2434
+Reduction result: the 2435
+101000 words added
+Reduction result: the 2436
+Reduction result: the 2436
+Reduction result: the 2436
+Reduction result: the 2436
+Reduction result: the 2436
+33000 queries made
+Reduction result: the 2437
+Reduction result: the 2437
+Reduction result: the 2437
+Reduction result: the 2438
+Reduction result: the 2438
+Reduction result: the 2438
+Reduction result: the 2438
+Reduction result: the 2438
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2439
+Reduction result: the 2440
+Reduction result: the 2441
+Reduction result: the 2441
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2442
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2444
+Reduction result: the 2445
+34000 queries made
+Reduction result: the 2445
+Reduction result: the 2446
+Reduction result: the 2446
+Reduction result: the 2446
+Reduction result: the 2446
+Reduction result: the 2446
+Reduction result: the 2447
+Reduction result: the 2447
+Reduction result: the 2447
+Reduction result: the 2449
+Reduction result: the 2449
+Reduction result: the 2449
+Reduction result: the 2449
+Done Reading pg1112.txt
+Reduction result: the 2449
+Reduction result: the 2449
+Reduction result: the 2450
+Reduction result: the 2450
+Reduction result: the 2450
+Reduction result: the 2450
+Reduction result: the 2450
+Reduction result: the 2451
+Reduction result: the 2451
+Reduction result: the 2452
+Reduction result: the 2452
+Reduction result: the 2452
+Reduction result: the 2452
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2453
+Reduction result: the 2454
+35000 queries made
+Reduction result: the 2454
+Reduction result: the 2454
+Reduction result: the 2454
+Reduction result: the 2454
+Reduction result: the 2454
+Reduction result: the 2454
+Reduction result: the 2455
+Reduction result: the 2456
+Reduction result: the 2456
+Reduction result: the 2456
+Reduction result: the 2456
+Reduction result: the 2456
+Reduction result: the 2456
+Reduction result: the 2457
+Reduction result: the 2458
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2459
+Reduction result: the 2460
+Reduction result: the 2461
+Reduction result: the 2461
+Reduction result: the 2461
+Reduction result: the 2461
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+36000 queries made
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+Reduction result: the 2462
+102000 words added
+Reduction result: the 2462
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2463
+Reduction result: the 2464
+Reduction result: the 2464
+Reduction result: the 2465
+Reduction result: the 2466
+Reduction result: the 2466
+37000 queries made
+Reduction result: the 2466
+Reduction result: the 2467
+Reduction result: the 2467
+Reduction result: the 2467
+Reduction result: the 2468
+Reduction result: the 2469
+Reduction result: the 2470
+Reduction result: the 2471
+Reduction result: the 2471
+Reduction result: the 2471
+Reduction result: the 2471
+Reduction result: the 2471
+Reduction result: the 2472
+Reduction result: the 2473
+Reduction result: the 2473
+Reduction result: the 2473
+Reduction result: the 2473
+Reduction result: the 2473
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2474
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2475
+Reduction result: the 2476
+Reduction result: the 2477
+38000 queries made
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2478
+Reduction result: the 2479
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2480
+Reduction result: the 2481
+Reduction result: the 2481
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+39000 queries made
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2482
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2483
+Reduction result: the 2484
+Reduction result: the 2484
+Reduction result: the 2484
+Reduction result: the 2484
+Reduction result: the 2485
+Reduction result: the 2485
+Reduction result: the 2485
+Reduction result: the 2485
+Reduction result: the 2486
+Reduction result: the 2487
+Reduction result: the 2487
+Reduction result: the 2487
+Reduction result: the 2488
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+Reduction result: the 2489
+40000 queries made
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2490
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2491
+Reduction result: the 2492
+Reduction result: the 2493
+Reduction result: the 2493
+Reduction result: the 2494
+Reduction result: the 2494
+Reduction result: the 2495
+Reduction result: the 2495
+Reduction result: the 2495
+Reduction result: the 2495
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2496
+Reduction result: the 2498
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+41000 queries made
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2499
+Reduction result: the 2500
+Reduction result: the 2500
+103000 words added
+Reduction result: the 2500
+Reduction result: the 2500
+Reduction result: the 2501
+Reduction result: the 2501
+Reduction result: the 2501
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+Reduction result: the 2502
+42000 queries made
+Reduction result: the 2502
+Reduction result: the 2503
+Reduction result: the 2503
+Reduction result: the 2503
+Reduction result: the 2503
+Reduction result: the 2504
+Reduction result: the 2504
+Reduction result: the 2504
+Reduction result: the 2504
+Reduction result: the 2504
+Reduction result: the 2504
+Reduction result: the 2505
+Reduction result: the 2505
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2506
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2507
+Reduction result: the 2508
+Reduction result: the 2508
+Reduction result: the 2508
+Reduction result: the 2509
+Reduction result: the 2509
+Reduction result: the 2509
+Reduction result: the 2509
+Reduction result: the 2509
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+43000 queries made
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2510
+Reduction result: the 2511
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2512
+Reduction result: the 2513
+Reduction result: the 2514
+Reduction result: the 2514
+Reduction result: the 2514
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2515
+Reduction result: the 2516
+Reduction result: the 2516
+Reduction result: the 2516
+Reduction result: the 2516
+Reduction result: the 2517
+44000 queries made
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2517
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2518
+Reduction result: the 2519
+Reduction result: the 2519
+Reduction result: the 2519
+Reduction result: the 2519
+Reduction result: the 2520
+Reduction result: the 2520
+Reduction result: the 2520
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+45000 queries made
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2521
+Reduction result: the 2522
+Reduction result: the 2522
+Reduction result: the 2523
+Reduction result: the 2523
+Reduction result: the 2523
+Reduction result: the 2524
+Reduction result: the 2524
+Reduction result: the 2524
+Reduction result: the 2524
+46000 queries made
+Reduction result: the 2524
+Reduction result: the 2524
+Reduction result: the 2524
+Reduction result: the 2524
+Reduction result: the 2525
+Reduction result: the 2525
+Reduction result: the 2525
+Reduction result: the 2525
+Reduction result: the 2525
+Reduction result: the 2526
+Reduction result: the 2526
+Reduction result: the 2526
+Reduction result: the 2526
+Reduction result: the 2526
+Reduction result: the 2526
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2527
+Reduction result: the 2528
+Reduction result: the 2528
+Reduction result: the 2529
+Reduction result: the 2529
+Reduction result: the 2530
+Reduction result: the 2530
+Reduction result: the 2530
+Reduction result: the 2530
+Reduction result: the 2530
+Reduction result: the 2530
+Reduction result: the 2531
+Reduction result: the 2531
+Reduction result: the 2531
+47000 queries made
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+104000 words added
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2532
+Reduction result: the 2533
+Reduction result: the 2533
+Reduction result: the 2534
+Reduction result: the 2534
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2535
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+48000 queries made
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2536
+Reduction result: the 2537
+Reduction result: the 2537
+Reduction result: the 2537
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2538
+Reduction result: the 2539
+Reduction result: the 2539
+Reduction result: the 2539
+Reduction result: the 2539
+Reduction result: the 2539
+Reduction result: the 2540
+Reduction result: the 2540
+Reduction result: the 2540
+Reduction result: the 2540
+Reduction result: the 2541
+Reduction result: the 2541
+Reduction result: the 2541
+Reduction result: the 2542
+Reduction result: the 2542
+Reduction result: the 2542
+Reduction result: the 2543
+Reduction result: the 2543
+Reduction result: the 2543
+Reduction result: the 2543
+Reduction result: the 2544
+Reduction result: the 2544
+Reduction result: the 2544
+Reduction result: the 2545
+49000 queries made
+Reduction result: the 2545
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2546
+Reduction result: the 2547
+Reduction result: the 2547
+Reduction result: the 2547
+Reduction result: the 2547
+Reduction result: the 2547
+Reduction result: the 2548
+Reduction result: the 2548
+Reduction result: the 2548
+Reduction result: the 2549
+Reduction result: the 2549
+Reduction result: the 2549
+Reduction result: the 2550
+Reduction result: the 2550
+Reduction result: the 2550
+Reduction result: the 2550
+Reduction result: the 2550
+Reduction result: the 2550
+Reduction result: the 2551
+Reduction result: the 2551
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2552
+Reduction result: the 2553
+Reduction result: the 2553
+50000 queries made
+Reduction result: the 2553
+Reduction result: the 2553
+Reduction result: the 2554
+Reduction result: the 2554
+Reduction result: the 2554
+Reduction result: the 2554
+Reduction result: the 2555
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2556
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2557
+Reduction result: the 2558
+Reduction result: the 2558
+Reduction result: the 2558
+Reduction result: the 2559
+Reduction result: the 2559
+Reduction result: the 2559
+Reduction result: the 2559
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+Reduction result: the 2560
+51000 queries made
+Reduction result: the 2560
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2561
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2562
+Reduction result: the 2563
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+Reduction result: the 2564
+52000 queries made
+Reduction result: the 2564
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2565
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2566
+Reduction result: the 2567
+Reduction result: the 2567
+Reduction result: the 2567
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+105000 words added
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2568
+Reduction result: the 2569
+Reduction result: the 2570
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2571
+53000 queries made
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2571
+Reduction result: the 2572
+Reduction result: the 2572
+Reduction result: the 2572
+Reduction result: the 2572
+Reduction result: the 2572
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2573
+Reduction result: the 2574
+Reduction result: the 2574
+Reduction result: the 2574
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2575
+Reduction result: the 2576
+Reduction result: the 2577
+Reduction result: the 2577
+Reduction result: the 2577
+Reduction result: the 2578
+Reduction result: the 2578
+Reduction result: the 2578
+Reduction result: the 2578
+Reduction result: the 2578
+54000 queries made
+Reduction result: the 2578
+Reduction result: the 2578
+Reduction result: the 2578
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2579
+Reduction result: the 2580
+Reduction result: the 2580
+Reduction result: the 2580
+Reduction result: the 2580
+Reduction result: the 2580
+Reduction result: the 2580
+Reduction result: the 2581
+Reduction result: the 2581
+Reduction result: the 2581
+Reduction result: the 2581
+Reduction result: the 2581
+Reduction result: the 2581
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2582
+Reduction result: the 2583
+Reduction result: the 2583
+55000 queries made
+Reduction result: the 2583
+Reduction result: the 2583
+Reduction result: the 2583
+Reduction result: the 2584
+Reduction result: the 2585
+Reduction result: the 2585
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2586
+Reduction result: the 2587
+Reduction result: the 2587
+Reduction result: the 2587
+Reduction result: the 2587
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2588
+Reduction result: the 2589
+Reduction result: the 2589
+Reduction result: the 2589
+Reduction result: the 2589
+Reduction result: the 2589
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+56000 queries made
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Reduction result: the 2590
+Done Reading pg1103.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   105641
+Total queries made:  56614
+Execution time:  3m20.429841911s

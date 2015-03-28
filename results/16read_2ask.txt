@@ -1,0 +1,850 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 3197 lines of pg1129.txt
+Reading 2921 lines of pg1041.txt
+Reading 3751 lines of pg2243.txt
+Reading 4789 lines of pg1103.txt
+Reading 3438 lines of pg1107.txt
+Reading 3561 lines of pg2235.txt
+Reading 3923 lines of pg2240.txt
+Reading 7067 lines of pg1524.txt
+Reading 3668 lines of pg2264.txt
+Reading 4854 lines of pg1112.txt
+Reading 5303 lines of pg2265.txt
+Reading 3333 lines of pg1120.txt
+Reading 4512 lines of pg1128.txt
+Reading 3761 lines of pg1514.txt
+Reading 3120 lines of pg2242.txt
+Reading 5043 lines of pg2267.txt
+1000 words added
+Reduction result: the 59
+2000 words added
+Reduction result: of 94
+3000 words added
+4000 words added
+Reduction result: of 162
+5000 words added
+Reduction result: of 266
+6000 words added
+Reduction result: of 277
+7000 words added
+8000 words added
+Reduction result: of 328
+9000 words added
+Reduction result: of 390
+10000 words added
+11000 words added
+Reduction result: of 402
+12000 words added
+Reduction result: of 429
+13000 words added
+14000 words added
+Reduction result: of 461
+15000 words added
+Reduction result: of 505
+16000 words added
+17000 words added
+Reduction result: of 548
+18000 words added
+Reduction result: of 557
+19000 words added
+20000 words added
+Reduction result: of 590
+21000 words added
+Reduction result: of 616
+22000 words added
+23000 words added
+Reduction result: of 629
+24000 words added
+Reduction result: of 690
+25000 words added
+26000 words added
+Reduction result: of 731
+27000 words added
+Reduction result: the 789
+28000 words added
+29000 words added
+Reduction result: the 869
+30000 words added
+Reduction result: the 901
+31000 words added
+32000 words added
+Reduction result: the 989
+33000 words added
+Reduction result: the 1043
+34000 words added
+35000 words added
+Reduction result: the 1082
+36000 words added
+Reduction result: the 1127
+37000 words added
+38000 words added
+Reduction result: the 1177
+39000 words added
+Reduction result: the 1216
+40000 words added
+Reduction result: the 1267
+41000 words added
+Reduction result: the 1317
+42000 words added
+43000 words added
+Reduction result: the 1356
+44000 words added
+Reduction result: the 1408
+45000 words added
+46000 words added
+Reduction result: the 1443
+47000 words added
+Reduction result: the 1493
+48000 words added
+49000 words added
+Reduction result: the 1528
+50000 words added
+51000 words added
+Reduction result: the 1568
+52000 words added
+Reduction result: the 1628
+53000 words added
+54000 words added
+Reduction result: the 1669
+55000 words added
+Reduction result: the 1709
+56000 words added
+57000 words added
+Reduction result: the 1725
+58000 words added
+Reduction result: the 1762
+59000 words added
+60000 words added
+Reduction result: the 1794
+61000 words added
+Reduction result: the 1833
+62000 words added
+63000 words added
+Reduction result: the 1866
+64000 words added
+Reduction result: the 1897
+65000 words added
+66000 words added
+Reduction result: the 1941
+67000 words added
+Reduction result: the 1980
+68000 words added
+69000 words added
+Reduction result: the 2017
+70000 words added
+Reduction result: the 2058
+71000 words added
+Reduction result: the 2090
+72000 words added
+Reduction result: the 2129
+73000 words added
+1000 queries made
+74000 words added
+Reduction result: the 2171
+75000 words added
+Reduction result: the 2214
+76000 words added
+77000 words added
+Reduction result: the 2249
+78000 words added
+Reduction result: the 2302
+79000 words added
+80000 words added
+Reduction result: the 2350
+81000 words added
+Reduction result: the 2377
+82000 words added
+Reduction result: the 2407
+83000 words added
+Reduction result: the 2449
+Reduction result: the 2483
+84000 words added
+Reduction result: the 2510
+85000 words added
+86000 words added
+Reduction result: the 2554
+87000 words added
+Reduction result: the 2601
+88000 words added
+89000 words added
+Reduction result: the 2656
+90000 words added
+Reduction result: the 2703
+91000 words added
+92000 words added
+Reduction result: the 2740
+93000 words added
+94000 words added
+Reduction result: the 2765
+95000 words added
+Reduction result: the 2805
+96000 words added
+97000 words added
+Reduction result: the 2849
+98000 words added
+Reduction result: the 2892
+99000 words added
+100000 words added
+Reduction result: the 2933
+101000 words added
+Reduction result: the 2980
+102000 words added
+103000 words added
+Reduction result: the 3018
+104000 words added
+Reduction result: the 3055
+105000 words added
+106000 words added
+Reduction result: the 3084
+107000 words added
+Reduction result: the 3131
+108000 words added
+109000 words added
+Reduction result: the 3191
+110000 words added
+111000 words added
+Reduction result: the 3241
+112000 words added
+Reduction result: the 3289
+113000 words added
+114000 words added
+Reduction result: the 3333
+115000 words added
+Reduction result: the 3363
+116000 words added
+Reduction result: the 3397
+117000 words added
+Reduction result: the 3436
+118000 words added
+Reduction result: the 3471
+119000 words added
+120000 words added
+Reduction result: the 3500
+121000 words added
+Reduction result: the 3552
+122000 words added
+Reduction result: the 3582
+123000 words added
+Reduction result: the 3607
+124000 words added
+125000 words added
+Reduction result: the 3630
+126000 words added
+Reduction result: the 3664
+127000 words added
+Reduction result: the 3695
+128000 words added
+129000 words added
+Reduction result: the 3737
+130000 words added
+Reduction result: the 3773
+131000 words added
+132000 words added
+Reduction result: the 3822
+133000 words added
+Reduction result: the 3847
+134000 words added
+Reduction result: the 3877
+135000 words added
+Reduction result: the 3914
+136000 words added
+Reduction result: the 3945
+137000 words added
+138000 words added
+Reduction result: the 3978
+139000 words added
+Reduction result: the 4010
+140000 words added
+141000 words added
+Reduction result: the 4044
+142000 words added
+Reduction result: the 4063
+143000 words added
+2000 queries made
+144000 words added
+Reduction result: the 4096
+145000 words added
+Reduction result: the 4120
+146000 words added
+147000 words added
+Reduction result: the 4146
+148000 words added
+Reduction result: the 4176
+149000 words added
+150000 words added
+Reduction result: the 4216
+151000 words added
+Reduction result: the 4255
+152000 words added
+153000 words added
+Reduction result: the 4303
+154000 words added
+Reduction result: the 4352
+155000 words added
+156000 words added
+Reduction result: the 4402
+157000 words added
+158000 words added
+Reduction result: the 4432
+159000 words added
+Reduction result: the 4472
+160000 words added
+161000 words added
+Reduction result: the 4513
+162000 words added
+Reduction result: the 4549
+163000 words added
+164000 words added
+Reduction result: the 4583
+165000 words added
+Reduction result: the 4628
+166000 words added
+167000 words added
+Reduction result: the 4662
+168000 words added
+169000 words added
+Reduction result: the 4697
+170000 words added
+Reduction result: the 4733
+171000 words added
+172000 words added
+Reduction result: the 4764
+173000 words added
+Reduction result: the 4811
+174000 words added
+175000 words added
+Reduction result: the 4845
+176000 words added
+Reduction result: the 4883
+177000 words added
+178000 words added
+Reduction result: the 4917
+179000 words added
+Reduction result: the 4948
+180000 words added
+181000 words added
+Reduction result: the 4994
+182000 words added
+183000 words added
+Reduction result: the 5028
+184000 words added
+Reduction result: the 5075
+185000 words added
+186000 words added
+Reduction result: the 5117
+187000 words added
+Reduction result: the 5142
+188000 words added
+189000 words added
+Reduction result: the 5176
+190000 words added
+191000 words added
+Reduction result: the 5221
+192000 words added
+Reduction result: the 5256
+193000 words added
+Reduction result: the 5277
+194000 words added
+Reduction result: the 5308
+195000 words added
+Reduction result: the 5333
+196000 words added
+Reduction result: the 5358
+197000 words added
+Reduction result: the 5385
+198000 words added
+199000 words added
+Reduction result: the 5414
+200000 words added
+201000 words added
+Reduction result: the 5465
+202000 words added
+Reduction result: the 5508
+203000 words added
+204000 words added
+Reduction result: the 5543
+205000 words added
+Reduction result: the 5584
+206000 words added
+207000 words added
+Reduction result: the 5638
+208000 words added
+Reduction result: the 5678
+209000 words added
+Reduction result: the 5709
+210000 words added
+211000 words added
+Reduction result: the 5748
+212000 words added
+Reduction result: the 5777
+213000 words added
+Reduction result: the 5799
+214000 words added
+Reduction result: the 5826
+215000 words added
+216000 words added
+Reduction result: the 5870
+217000 words added
+3000 queries made
+Reduction result: the 5899
+218000 words added
+Reduction result: the 5929
+219000 words added
+220000 words added
+Reduction result: the 5960
+221000 words added
+Reduction result: the 6007
+222000 words added
+Reduction result: the 6046
+223000 words added
+224000 words added
+Reduction result: the 6091
+225000 words added
+Reduction result: the 6119
+226000 words added
+Reduction result: the 6167
+227000 words added
+228000 words added
+Reduction result: the 6211
+229000 words added
+Reduction result: the 6250
+230000 words added
+Reduction result: the 6288
+231000 words added
+232000 words added
+Reduction result: the 6337
+233000 words added
+Reduction result: the 6380
+234000 words added
+235000 words added
+Reduction result: the 6417
+236000 words added
+Reduction result: the 6464
+237000 words added
+238000 words added
+Reduction result: the 6504
+239000 words added
+Reduction result: the 6536
+240000 words added
+Reduction result: the 6579
+241000 words added
+Reduction result: the 6620
+242000 words added
+243000 words added
+Reduction result: the 6647
+244000 words added
+Reduction result: the 6674
+245000 words added
+246000 words added
+Reduction result: the 6707
+247000 words added
+Reduction result: the 6745
+248000 words added
+249000 words added
+Reduction result: the 6785
+250000 words added
+Reduction result: the 6830
+251000 words added
+252000 words added
+Reduction result: the 6867
+253000 words added
+254000 words added
+Reduction result: the 6904
+255000 words added
+Reduction result: the 6945
+256000 words added
+257000 words added
+Reduction result: the 6980
+258000 words added
+Reduction result: the 7011
+259000 words added
+260000 words added
+Reduction result: the 7045
+261000 words added
+262000 words added
+Reduction result: the 7090
+263000 words added
+Reduction result: the 7136
+264000 words added
+265000 words added
+Reduction result: the 7177
+266000 words added
+Reduction result: the 7214
+267000 words added
+268000 words added
+Reduction result: the 7261
+269000 words added
+Reduction result: the 7307
+270000 words added
+271000 words added
+Reduction result: the 7357
+272000 words added
+273000 words added
+Reduction result: the 7402
+274000 words added
+Reduction result: the 7442
+275000 words added
+276000 words added
+Reduction result: the 7479
+277000 words added
+Reduction result: the 7524
+278000 words added
+279000 words added
+Reduction result: the 7548
+280000 words added
+Reduction result: the 7603
+281000 words added
+282000 words added
+Reduction result: the 7643
+283000 words added
+284000 words added
+Reduction result: the 7685
+285000 words added
+Reduction result: the 7732
+286000 words added
+287000 words added
+Reduction result: the 7773
+288000 words added
+Reduction result: the 7814
+289000 words added
+290000 words added
+Reduction result: the 7860
+291000 words added
+Reduction result: the 7887
+292000 words added
+4000 queries made
+293000 words added
+Reduction result: the 7917
+294000 words added
+295000 words added
+Reduction result: the 7954
+296000 words added
+Reduction result: the 8009
+297000 words added
+298000 words added
+Reduction result: the 8051
+299000 words added
+Reduction result: the 8092
+300000 words added
+301000 words added
+Reduction result: the 8135
+302000 words added
+Reduction result: the 8171
+303000 words added
+Reduction result: the 8209
+304000 words added
+305000 words added
+Reduction result: the 8240
+306000 words added
+Done Reading pg1514.txt
+Reduction result: the 8263
+307000 words added
+Reduction result: the 8303
+308000 words added
+309000 words added
+Reduction result: the 8343
+310000 words added
+Reduction result: the 8395
+311000 words added
+312000 words added
+Reduction result: the 8434
+Done Reading pg1041.txt
+313000 words added
+Reduction result: the 8475
+Done Reading pg2242.txt
+314000 words added
+Reduction result: the 8504
+315000 words added
+316000 words added
+Reduction result: the 8534
+Done Reading pg2235.txt
+317000 words added
+Reduction result: the 8571
+318000 words added
+Reduction result: the 8595
+319000 words added
+Reduction result: the 8622
+Done Reading pg1129.txt
+320000 words added
+Reduction result: the 8646
+321000 words added
+Reduction result: the 8666
+322000 words added
+Reduction result: the 8693
+Done Reading pg2264.txt
+323000 words added
+Reduction result: the 8719
+324000 words added
+Reduction result: the 8740
+325000 words added
+Reduction result: the 8772
+326000 words added
+Reduction result: the 8804
+327000 words added
+Reduction result: the 8829
+328000 words added
+Reduction result: the 8856
+329000 words added
+Reduction result: the 8888
+330000 words added
+Reduction result: the 8908
+Reduction result: the 8925
+331000 words added
+Reduction result: the 8942
+332000 words added
+Reduction result: the 8973
+333000 words added
+Reduction result: the 8992
+Reduction result: the 9010
+334000 words added
+Reduction result: the 9027
+335000 words added
+Reduction result: the 9049
+336000 words added
+Reduction result: the 9075
+337000 words added
+Reduction result: the 9110
+338000 words added
+Reduction result: the 9140
+339000 words added
+Reduction result: the 9155
+340000 words added
+Reduction result: the 9184
+341000 words added
+Reduction result: the 9208
+342000 words added
+Reduction result: the 9228
+343000 words added
+Reduction result: the 9251
+344000 words added
+Reduction result: the 9269
+345000 words added
+Reduction result: the 9290
+346000 words added
+Reduction result: the 9319
+Done Reading pg1120.txt
+347000 words added
+Reduction result: the 9345
+5000 queries made
+348000 words added
+Reduction result: the 9367
+Reduction result: the 9376
+349000 words added
+Reduction result: the 9387
+Reduction result: the 9396
+350000 words added
+Reduction result: the 9408
+Reduction result: the 9412
+Reduction result: the 9430
+351000 words added
+Reduction result: the 9440
+Reduction result: the 9460
+352000 words added
+Reduction result: the 9476
+353000 words added
+Reduction result: the 9494
+Reduction result: the 9510
+354000 words added
+Reduction result: the 9538
+Reduction result: the 9553
+355000 words added
+Reduction result: the 9575
+356000 words added
+Reduction result: the 9589
+357000 words added
+Reduction result: the 9597
+Reduction result: the 9613
+358000 words added
+Reduction result: the 9622
+Done Reading pg1107.txt
+Reduction result: the 9633
+359000 words added
+Reduction result: the 9658
+Reduction result: the 9665
+360000 words added
+Reduction result: the 9677
+Reduction result: the 9688
+361000 words added
+Reduction result: the 9699
+362000 words added
+Reduction result: the 9717
+Done Reading pg2243.txt
+Reduction result: the 9727
+363000 words added
+Done Reading pg2240.txt
+Reduction result: the 9736
+Reduction result: the 9744
+Reduction result: the 9754
+364000 words added
+Reduction result: the 9768
+Reduction result: the 9786
+365000 words added
+Reduction result: the 9795
+366000 words added
+Reduction result: the 9806
+Reduction result: the 9818
+367000 words added
+Reduction result: the 9829
+Reduction result: the 9841
+Reduction result: the 9847
+368000 words added
+Reduction result: the 9855
+Reduction result: the 9865
+369000 words added
+Reduction result: the 9871
+Reduction result: the 9877
+Reduction result: the 9887
+370000 words added
+Reduction result: the 9902
+Reduction result: the 9912
+371000 words added
+Reduction result: the 9922
+Reduction result: the 9944
+372000 words added
+Reduction result: the 9955
+Reduction result: the 9971
+373000 words added
+Reduction result: the 9977
+Reduction result: the 9988
+374000 words added
+Reduction result: the 10004
+6000 queries made
+Reduction result: the 10016
+375000 words added
+Reduction result: the 10032
+Reduction result: the 10043
+376000 words added
+Reduction result: the 10054
+Reduction result: the 10073
+Reduction result: the 10085
+377000 words added
+Reduction result: the 10106
+378000 words added
+Reduction result: the 10127
+Reduction result: the 10142
+379000 words added
+Reduction result: the 10158
+Reduction result: the 10176
+380000 words added
+Reduction result: the 10193
+381000 words added
+Reduction result: the 10205
+Reduction result: the 10218
+382000 words added
+Reduction result: the 10230
+Reduction result: the 10241
+Reduction result: the 10260
+383000 words added
+Reduction result: the 10280
+Reduction result: the 10296
+384000 words added
+Reduction result: the 10305
+Reduction result: the 10312
+385000 words added
+Reduction result: the 10332
+Reduction result: the 10338
+Reduction result: the 10350
+386000 words added
+Reduction result: the 10358
+Reduction result: the 10377
+Reduction result: the 10388
+387000 words added
+Reduction result: the 10396
+Reduction result: the 10407
+388000 words added
+Reduction result: the 10417
+Reduction result: the 10433
+Done Reading pg1112.txt
+Reduction result: the 10438
+389000 words added
+Reduction result: the 10444
+Reduction result: the 10450
+Reduction result: the 10455
+Reduction result: the 10462
+390000 words added
+Reduction result: the 10474
+Reduction result: the 10481
+Done Reading pg1128.txt
+Reduction result: the 10482
+391000 words added
+Reduction result: the 10491
+Reduction result: the 10510
+Reduction result: the 10523
+392000 words added
+Reduction result: the 10537
+Reduction result: the 10553
+393000 words added
+Reduction result: the 10566
+Reduction result: the 10582
+Done Reading pg2267.txt
+Reduction result: the 10593
+394000 words added
+Reduction result: the 10608
+Reduction result: the 10618
+Reduction result: the 10630
+Reduction result: the 10642
+395000 words added
+Reduction result: the 10650
+Reduction result: the 10660
+7000 queries made
+Reduction result: the 10666
+Reduction result: the 10676
+396000 words added
+Reduction result: the 10682
+Reduction result: the 10690
+Reduction result: the 10706
+397000 words added
+Reduction result: the 10714
+Reduction result: the 10721
+Reduction result: the 10734
+Reduction result: the 10746
+398000 words added
+Reduction result: the 10756
+Reduction result: the 10766
+Reduction result: the 10772
+Reduction result: the 10781
+Reduction result: the 10785
+399000 words added
+Reduction result: the 10790
+Reduction result: the 10795
+Reduction result: the 10799
+Reduction result: the 10802
+Reduction result: the 10812
+400000 words added
+Done Reading pg2265.txt
+Reduction result: the 10816
+Reduction result: the 10826
+Reduction result: the 10842
+Reduction result: the 10848
+Reduction result: the 10852
+401000 words added
+Reduction result: the 10862
+Reduction result: the 10870
+Reduction result: the 10870
+Done Reading pg1103.txt
+Reduction result: the 10872
+Reduction result: the 10875
+Reduction result: the 10878
+Reduction result: the 10879
+Reduction result: the 10883
+402000 words added
+Reduction result: the 10885
+Reduction result: the 10891
+Done Reading pg1524.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   402163
+Total queries made:  7667
+Execution time:  40.311411907s

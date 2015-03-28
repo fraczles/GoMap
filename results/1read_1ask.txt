@@ -1,0 +1,248 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 2921 lines of pg1041.txt
+Reduction result: the 5
+Reduction result: the 8
+Reduction result: the 8
+Reduction result: of 14
+Reduction result: the 17
+Reduction result: the 20
+Reduction result: the 24
+Reduction result: the 25
+Reduction result: the 26
+Reduction result: the 28
+Reduction result: the 31
+1000 words added
+Reduction result: the 35
+Reduction result: the 37
+Reduction result: the 39
+Reduction result: the 42
+Reduction result: the 45
+Reduction result: the 49
+Reduction result: the 56
+Reduction result: the 58
+Reduction result: the 62
+Reduction result: the 67
+2000 words added
+Reduction result: the 69
+Reduction result: the 74
+Reduction result: the 75
+Reduction result: the 77
+Reduction result: the 77
+Reduction result: the 80
+Reduction result: the 82
+Reduction result: the 84
+Reduction result: the 86
+Reduction result: the 88
+Reduction result: the 88
+3000 words added
+Reduction result: the 93
+Reduction result: the 97
+Reduction result: the 98
+Reduction result: the 99
+Reduction result: the 101
+Reduction result: the 102
+Reduction result: the 104
+Reduction result: the 105
+Reduction result: the 107
+Reduction result: the 112
+Reduction result: the 113
+4000 words added
+Reduction result: the 115
+Reduction result: the 115
+Reduction result: the 116
+Reduction result: the 117
+Reduction result: the 119
+Reduction result: the 122
+Reduction result: the 127
+Reduction result: the 127
+Reduction result: the 127
+Reduction result: the 129
+5000 words added
+Reduction result: the 134
+Reduction result: the 135
+Reduction result: the 138
+Reduction result: the 142
+Reduction result: the 145
+Reduction result: the 149
+Reduction result: the 151
+Reduction result: the 157
+Reduction result: the 157
+Reduction result: the 157
+6000 words added
+Reduction result: the 157
+Reduction result: the 158
+Reduction result: the 161
+Reduction result: the 162
+Reduction result: the 162
+Reduction result: the 162
+Reduction result: the 162
+Reduction result: the 164
+Reduction result: the 167
+Reduction result: the 169
+Reduction result: the 170
+7000 words added
+Reduction result: the 173
+Reduction result: the 177
+Reduction result: the 177
+Reduction result: the 179
+Reduction result: the 182
+Reduction result: the 186
+Reduction result: the 188
+Reduction result: the 190
+Reduction result: the 194
+Reduction result: the 197
+8000 words added
+Reduction result: the 199
+Reduction result: the 204
+Reduction result: the 207
+Reduction result: the 212
+Reduction result: the 213
+Reduction result: the 213
+Reduction result: the 219
+Reduction result: the 223
+Reduction result: the 225
+Reduction result: the 225
+9000 words added
+Reduction result: the 226
+Reduction result: the 230
+Reduction result: the 231
+Reduction result: the 232
+Reduction result: the 232
+Reduction result: the 232
+1000 queries made
+Reduction result: the 235
+Reduction result: the 239
+Reduction result: the 243
+Reduction result: the 246
+Reduction result: the 248
+10000 words added
+Reduction result: the 248
+Reduction result: the 255
+Reduction result: the 257
+Reduction result: the 260
+Reduction result: the 262
+Reduction result: the 264
+Reduction result: the 264
+Reduction result: the 267
+Reduction result: the 268
+Reduction result: the 271
+11000 words added
+Reduction result: the 272
+Reduction result: the 274
+Reduction result: the 275
+Reduction result: the 275
+Reduction result: the 276
+Reduction result: the 278
+Reduction result: the 282
+Reduction result: the 282
+Reduction result: the 283
+Reduction result: the 283
+12000 words added
+Reduction result: the 283
+Reduction result: the 287
+Reduction result: the 289
+Reduction result: the 291
+Reduction result: the 291
+Reduction result: the 292
+Reduction result: the 295
+Reduction result: the 299
+Reduction result: the 300
+Reduction result: the 304
+Reduction result: the 308
+13000 words added
+Reduction result: the 314
+Reduction result: the 314
+Reduction result: the 315
+Reduction result: the 315
+Reduction result: the 316
+Reduction result: the 319
+Reduction result: the 320
+Reduction result: the 322
+Reduction result: the 322
+Reduction result: the 325
+14000 words added
+Reduction result: the 328
+Reduction result: the 331
+Reduction result: the 334
+Reduction result: the 336
+Reduction result: the 337
+Reduction result: the 338
+Reduction result: the 340
+Reduction result: the 341
+Reduction result: the 346
+Reduction result: the 348
+Reduction result: the 352
+15000 words added
+Reduction result: the 357
+Reduction result: the 358
+Reduction result: the 360
+Reduction result: the 361
+Reduction result: the 362
+Reduction result: the 362
+Reduction result: the 363
+Reduction result: the 364
+Reduction result: the 364
+Reduction result: the 366
+Reduction result: the 368
+16000 words added
+Reduction result: the 371
+Reduction result: the 371
+Reduction result: the 371
+Reduction result: the 372
+Reduction result: the 373
+Reduction result: the 375
+Reduction result: the 375
+Reduction result: the 376
+Reduction result: the 379
+Reduction result: the 381
+Reduction result: the 383
+Reduction result: the 387
+Reduction result: the 388
+17000 words added
+Reduction result: the 388
+Reduction result: the 388
+Reduction result: the 389
+Reduction result: the 390
+Reduction result: the 393
+Reduction result: the 396
+Reduction result: the 398
+Reduction result: the 399
+Reduction result: the 399
+Reduction result: the 399
+18000 words added
+Reduction result: the 400
+Reduction result: the 400
+Reduction result: the 401
+Reduction result: the 402
+Reduction result: the 403
+Reduction result: the 404
+Reduction result: the 407
+Reduction result: the 408
+Reduction result: the 409
+Reduction result: the 409
+2000 queries made
+19000 words added
+Reduction result: the 413
+Reduction result: the 413
+Reduction result: the 413
+Reduction result: the 415
+Reduction result: the 416
+Reduction result: the 418
+Done Reading pg1041.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   19582
+Total queries made:  2063
+Execution time:  21.259711006s
