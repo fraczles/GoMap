@@ -84,20 +84,20 @@ func main() {
 		}()
 	}
 
-        fmt.Println("Starting Reducer")
-        reduce_kill := make(chan int)
-        go reducer(max_word, emap, "INVALID", 0, reduce_kill)
+    fmt.Println("Starting Reducer")
+    reduce_kill := make(chan int)
+    go reducer(max_word, emap, "INVALID", 0, reduce_kill)
 
 
 	fmt.Println("\nRunning\n")
 	wg.Wait()
 
 	fmt.Println("Stopping Askers")
-	for i := 0; i < *arg_askers; i++ {
+	//for i := 0; i < *arg_askers; i++ {
 		ask_kill <- 1
-	}
+	//}
         reduce_kill <- 1
-
+	fmt.Println("Calling Stop...")
 	emap.Stop()
 	fmt.Println("Map Stopped\n")
 
