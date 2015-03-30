@@ -1,0 +1,249 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 2921 lines of pg1041.txt
+Reduction result: *******The 1
+Reduction result: Domain. 1
+Reduction result: Vanilla 1
+Reduction result: own 1
+Reduction result: *These 1
+Reduction result: hours 1
+Reduction result: letters 1
+Reduction result: [Mac 1
+Reduction result: Free 1
+Reduction result: "Project 1
+Reduction result: up 1
+1000 words added
+Reduction result: stated 1
+Reduction result: selected, 1
+Reduction result: etext) 1
+Reduction result: scrambles 1
+Reduction result: #2 1
+Reduction result: [#1 1
+Reduction result: USE 1
+Reduction result: expenses, 1
+Reduction result: present 1
+Reduction result: FITNESS 1
+2000 words added
+Reduction result: Electronic 1
+Reduction result: periodic) 1
+Reduction result: emulator), 1
+Reduction result: LIABILITY, 1
+Reduction result: GUTENBERG-TM 1
+Reduction result: etext) 1
+Reduction result: University" 1
+Reduction result: leave? 1
+Reduction result: consequential 1
+Reduction result: INDIRECT, 1
+Reduction result: viewest 1
+3000 words added
+Reduction result: "Defects". 1
+Reduction result: worth 1
+Reduction result: husbandry? 1
+Reduction result: LIABILITY, 1
+Reduction result: ever! 1
+Reduction result: provisions 1
+Reduction result: Lo! 1
+Reduction result: threescore 1
+Reduction result: cannot 1
+Reduction result: though 1
+Reduction result: LIABILITY, 1
+4000 words added
+Reduction result: Carnegie- 1
+Reduction result: trademark. 1
+Reduction result: 'Thy 1
+Reduction result: password: 1
+Reduction result: population, 1
+Reduction result: viewest 1
+Reduction result: WHAT 1
+Reduction result: Unlook'd, 1
+Reduction result: rose 1
+Reduction result: used, 1
+Reduction result: half 1
+5000 words added
+Reduction result: Replacement 1
+Reduction result: Stirr'd 1
+Reduction result: glass, 1
+Reduction result: computerized 1
+Reduction result: held, 1
+Reduction result: outstripp'd 1
+Reduction result: page) 1
+Reduction result: efforts 1
+Reduction result: boast, 1
+Reduction result: gladly, 1
+6000 words added
+Reduction result: Electronic 1
+Reduction result: yours, 1
+Reduction result: weed 1
+Reduction result: your@login 1
+Reduction result: wssnt11.txt. 1
+Reduction result: belov'd 1
+Reduction result: OTHER 1
+Reduction result: Find 1
+Reduction result: play 1
+Reduction result: music 1
+7000 words added
+Reduction result: grief's 1
+Reduction result: second 1
+Reduction result: SEND 1
+Reduction result: Unlook'd 1
+Reduction result: rehearse, 1
+Reduction result: readable 1
+Reduction result: XVIII 1
+Reduction result: plagues, 1
+Reduction result: shape 1
+Reduction result: owns 1
+Reduction result: viewest 1
+8000 words added
+Reduction result: truest 1
+Reduction result: other: 1
+Reduction result: thanks, 1
+Reduction result: IL 1
+Reduction result: Some 1
+Reduction result: grieve 1
+Reduction result: $2 1
+Reduction result: country 1
+Reduction result: music 1
+Reduction result: Association/Carnegie-Mellon 1
+9000 words added
+Reduction result: tract, 1
+Reduction result: fiery 1
+Reduction result: very 1
+Reduction result: separation 1
+Reduction result: poverty: 1
+1000 queries made
+Reduction result: tiger's 1
+Reduction result: astronomy, 1
+Reduction result: chary 1
+Reduction result: base 1
+Reduction result: live? 1
+Reduction result: loves, 1
+Reduction result: #1041] 1
+10000 words added
+Reduction result: Money 1
+Reduction result: Either 1
+Reduction result: winds 1
+Reduction result: yore. 1
+Reduction result: twice,--in 1
+Reduction result: help, 1
+Reduction result: Look, 1
+Reduction result: Bare 1
+Reduction result: Special 1
+Reduction result: dwell, 1
+Reduction result: OTHER 1
+Reduction result: young. 1
+11000 words added
+Reduction result: require 1
+Reduction result: sensual 1
+Reduction result: rotten; 1
+Reduction result: impair 1
+Reduction result: win 1
+Reduction result: bestow'st, 1
+Reduction result: frost, 1
+Reduction result: reading 1
+Reduction result: Who, 1
+Reduction result: [10,000 1
+12000 words added
+Reduction result: triumph; 1
+Reduction result: MONEY 1
+Reduction result: stout, 1
+Reduction result: Free 1
+Reduction result: gratefully 1
+Reduction result: O. 1
+Reduction result: sword, 1
+Reduction result: disk), 1
+Reduction result: disgrac'd, 1
+Reduction result: pen. 1
+13000 words added
+Reduction result: Sets 1
+Reduction result: behind, 1
+Reduction result: pure 1
+Reduction result: rude, 1
+Reduction result: lame 1
+Reduction result: out! 1
+Reduction result: Special 1
+Reduction result: different 1
+Reduction result: advisor** 1
+Reduction result: tomb, 1
+Reduction result: singleness 1
+14000 words added
+Reduction result: list, 1
+Reduction result: convert'; 1
+Reduction result: counterpart 1
+Reduction result: clearer 1
+Reduction result: *EITHER*: 1
+Reduction result: fulness, 1
+Reduction result: donations. 1
+Reduction result: favourites 1
+Reduction result: Serving 1
+Reduction result: trimm'd 1
+Reduction result: (CMU 1
+15000 words added
+Reduction result: wise 1
+Reduction result: note: 1
+Reduction result: SEND 1
+Reduction result: self-will'd, 1
+Reduction result: Etexts, 1
+Reduction result: better'd 1
+Reduction result: feel, 1
+Reduction result: implied 1
+Reduction result: list, 1
+Reduction result: XXXVII 1
+16000 words added
+Reduction result: tear 1
+Reduction result: spheres 1
+Reduction result: tongues, 1
+Reduction result: nothing. 1
+Reduction result: term 1
+Reduction result: Shifts 1
+Reduction result: University). 1
+Reduction result: short, 1
+Reduction result: commits, 1
+Reduction result: phoenix, 1
+Reduction result: ruth 1
+17000 words added
+Reduction result: 30 1
+Reduction result: love; 1
+Reduction result: rights. 1
+Reduction result: tract, 1
+Reduction result: Intend 1
+Reduction result: desired 1
+Reduction result: correct 1
+Reduction result: coward 1
+Reduction result: Borne 1
+Reduction result: heaven: 1
+18000 words added
+Reduction result: deductible 1
+Reduction result: GUTENBERG- 1
+Reduction result: Above 1
+Reduction result: 'scap'd 1
+Reduction result: blush 1
+Reduction result: LXX 1
+Reduction result: you; 1
+Reduction result: tempting 1
+Reduction result: failed] 1
+2000 queries made
+Reduction result: attend 1
+19000 words added
+Reduction result: writ: 1
+Reduction result: Association/Carnegie-Mellon 1
+Reduction result: declines, 1
+Reduction result: travell'd 1
+Reduction result: windy 1
+Reduction result: seen! 1
+Done Reading pg1041.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   19582
+Total queries made:  2070
+Execution time:  21.361978128s

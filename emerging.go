@@ -87,7 +87,7 @@ func main() {
 
     fmt.Println("Starting Reducer")
     reduce_kill := make(chan int)
-    go reducer(max_word, emap, "INVALID", 0, reduce_kill)
+    go reducer(min_word, emap, "INVALID", 0, reduce_kill)
 
 
 	fmt.Println("\nRunning\n")

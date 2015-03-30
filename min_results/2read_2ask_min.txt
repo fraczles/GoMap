@@ -1,0 +1,422 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 2921 lines of pg1041.txt
+Reading 4789 lines of pg1103.txt
+Reduction result: presenting 1
+Reduction result: LIBRARY, 1
+Reduction result: etext 1
+Reduction result: LETTER, 1
+Reduction result: PRESENTATION. 1
+1000 words added
+Reduction result: MEMBERSHIP.>> 1
+Reduction result: USED 1
+Reduction result: wssnt10.zip****** 1
+Reduction result: .NO 1
+Reduction result: certain 1
+Reduction result: September, 1
+2000 words added
+Reduction result: efforts, 1
+Reduction result: Gutenberg/CMU": 1
+Reduction result: presenting 1
+Reduction result: time, 1
+Reduction result: provisions 1
+3000 words added
+Reduction result: AWAY 1
+Reduction result: *BEFORE!* 1
+Reduction result: would 1
+Reduction result: So, 1
+Reduction result: unlike 1
+4000 words added
+Reduction result: Clarence 1
+Reduction result: conversion 1
+Reduction result: country 1
+Reduction result: livery 1
+Reduction result: Charles 1
+5000 words added
+Reduction result: Graces 1
+Reduction result: guarded, 1
+Reduction result: should, 1
+Reduction result: feel'st 1
+Reduction result: RATCLIFF 1
+6000 words added
+Reduction result: [B] 1
+Reduction result: .AND 1
+Reduction result: Saint 1
+Reduction result: any, 1
+Reduction result: Joseph 1
+Reduction result: reputation, 1
+7000 words added
+Reduction result: solus 1
+Reduction result: Keeper 1
+Reduction result: MAYOR 1
+Reduction result: excepting 1
+Reduction result: Pay 1
+8000 words added
+Reduction result: MORTON, 1
+Reduction result: light's 1
+Reduction result: God's 1
+Reduction result: point 1
+Reduction result: NEW 1
+9000 words added
+Reduction result: should, 1
+Reduction result: makes 1
+Reduction result: wilt 1
+1000 queries made
+Reduction result: binary, 1
+Reduction result: dollar 1
+10000 words added
+Reduction result: Whiles 1
+Reduction result: lascivious 1
+Reduction result: byte 1
+Reduction result: knowledge 1
+Reduction result: Attendants; 1
+11000 words added
+Reduction result: fail 1
+Reduction result: GUTENBERG-tm" 1
+Reduction result: wssnt10.zip****** 1
+Reduction result: cancell'd 1
+Reduction result: tread 1
+12000 words added
+Reduction result: all! 1
+Reduction result: summon 1
+Reduction result: count, 1
+Reduction result: Roses 1
+Reduction result: extremity. 1
+Reduction result: plucks 1
+13000 words added
+Reduction result: amazeth. 1
+Reduction result: four 1
+Reduction result: wise 1
+Reduction result: endow'd, 1
+Reduction result: contents 1
+14000 words added
+Reduction result: writ: 1
+Reduction result: foulest 1
+Reduction result: angels 1
+Reduction result: [A] 1
+Reduction result: roof 1
+15000 words added
+Reduction result: nothing, 1
+Reduction result: unset, 1
+Reduction result: dollar 1
+Reduction result: bites, 1
+Reduction result: live. 1
+16000 words added
+Reduction result: past 1
+Reduction result: fortify 1
+Reduction result: sons 1
+Reduction result: complete 1
+Reduction result: SONNETS 1
+17000 words added
+Reduction result: strut 1
+Reduction result: 1000+ 1
+Reduction result: works. 1
+Reduction result: quite, 1
+Reduction result: fortify 1
+18000 words added
+Reduction result: straitly 1
+Reduction result: work's 1
+Reduction result: *This 1
+Reduction result: XLIV 1
+Reduction result: past 1
+19000 words added
+Reduction result: least; 1
+Reduction result: cities 1
+2000 queries made
+Reduction result: Full 1
+Reduction result: payable 1
+Reduction result: music 1
+Reduction result: Princes 1
+Reduction result: stab 1
+20000 words added
+Reduction result: slower 1
+Reduction result: sums, 1
+Reduction result: help, 1
+Reduction result: hell. 1
+Reduction result: 20% 1
+21000 words added
+Reduction result: redemption 1
+Reduction result: HOWEVER, 1
+Reduction result: progress 1
+Reduction result: gardens, 1
+Reduction result: Dispute 1
+Reduction result: STANLEY, 1
+22000 words added
+Reduction result: wear, 1
+Reduction result: swore 1
+Reduction result: visage 1
+Reduction result: should, 1
+Reduction result: Beggar'd 1
+23000 words added
+Reduction result: ours 1
+Reduction result: ride 1
+Reduction result: tir'd; 1
+Reduction result: (hung 1
+Reduction result: speed 1
+Reduction result: Grim-visag'd 1
+24000 words added
+Reduction result: valiant, 1
+Reduction result: restore 1
+Reduction result: light's 1
+Reduction result: garments, 1
+Reduction result: November, 1
+25000 words added
+Reduction result: most. 1
+Reduction result: well-spoken, 1
+Reduction result: fate, 1
+Reduction result: warrant, 1
+Reduction result: nimble 1
+26000 words added
+Reduction result: song 1
+Reduction result: else- 1
+Reduction result: Lord, 1
+Reduction result: curtail'd 1
+Reduction result: proofread 1
+27000 words added
+Reduction result: 60 1
+Reduction result: celestial 1
+Reduction result: vantage 1
+Reduction result: fairest 1
+Reduction result: indeed. 1
+28000 words added
+Reduction result: treason, 1
+Reduction result: ears. 1
+Reduction result: devilish 1
+Reduction result: XXXII 1
+3000 queries made
+Reduction result: monument, 1
+29000 words added
+Reduction result: will. 1
+Reduction result: wait, 1
+Reduction result: diet 1
+Reduction result: Mail: 1
+Reduction result: tenth 1
+30000 words added
+Reduction result: foil'd, 1
+Reduction result: Unthrifty 1
+Reduction result: 'O 1
+Reduction result: Should 1
+Reduction result: imprison 1
+31000 words added
+Reduction result: deed! 1
+Reduction result: looking-glass, 1
+Reduction result: innocent 1
+Reduction result: exhales 1
+Reduction result: Points 1
+Reduction result: waits 1
+32000 words added
+Reduction result: extern 1
+Reduction result: miscarry. 1
+Reduction result: clothe 1
+Reduction result: efforts, 1
+Reduction result: Tir'd 1
+33000 words added
+Reduction result: filching 1
+Reduction result: yea 1
+Reduction result: "Defects". 1
+Reduction result: shady 1
+Reduction result: XVIII 1
+34000 words added
+Reduction result: should, 1
+Reduction result: arm; 1
+Reduction result: Drugs 1
+Reduction result: Spurn 1
+Reduction result: groan; 1
+35000 words added
+Reduction result: rend 1
+Reduction result: Cheated 1
+Reduction result: render, 1
+Reduction result: bought 1
+Reduction result: sweetness, 1
+36000 words added
+Reduction result: comment; 1
+Reduction result: OXFORD 1
+Reduction result: GEORGE, 1
+Reduction result: methoughts, 1
+Reduction result: new-delivered 1
+37000 words added
+Reduction result: displeas'd 1
+Reduction result: Deform'd, 1
+Reduction result: cheap 1
+Reduction result: spent: 1
+Reduction result: comes. 1
+38000 words added
+Reduction result: Naught 1
+Reduction result: loins, 1
+Reduction result: CI 1
+4000 queries made
+Reduction result: sharp-provided 1
+Reduction result: unworthy 1
+39000 words added
+Reduction result: contrary 1
+Done Reading pg1041.txt
+Reduction result: way; 1
+Reduction result: top, 1
+Reduction result: Flourish. 1
+Reduction result: curse. 1
+Reduction result: Vaughan; 1
+Reduction result: WALES, 1
+Reduction result: string, 1
+Reduction result: chide, 1
+Reduction result: rondure 1
+40000 words added
+Reduction result: lame 1
+Reduction result: million. 1
+Reduction result: importing 1
+Reduction result: injur'd 1
+Reduction result: Struck 1
+Reduction result: thus, 1
+Reduction result: Fram'd 1
+Reduction result: Bona, 1
+Reduction result: character'd 1
+Reduction result: Dispute 1
+41000 words added
+Reduction result: jaws, 1
+Reduction result: stamp'd, 1
+Reduction result: LXVII 1
+Reduction result: persuading 1
+Reduction result: NORFOLK 1
+Reduction result: ground. 1
+Reduction result: chronicle 1
+Reduction result: fix'd 1
+Reduction result: o'er-worn 1
+Reduction result: ALLOWED!! 1
+42000 words added
+Reduction result: persuading 1
+Reduction result: beard, 1
+Reduction result: wizard 1
+Reduction result: P.O. 1
+Reduction result: earth's 1
+Reduction result: misplac'd, 1
+Reduction result: consistory, 1
+Reduction result: fetch 1
+Reduction result: parlous 1
+Reduction result: damn'd 1
+Reduction result: windy 1
+43000 words added
+Reduction result: Was, 1
+Reduction result: misshapen 1
+Reduction result: Sings 1
+Reduction result: persuading 1
+Reduction result: arise, 1
+Reduction result: know; 1
+Reduction result: finger, 1
+5000 queries made
+Reduction result: (hung 1
+Reduction result: tiger's 1
+Reduction result: strength's 1
+44000 words added
+Reduction result: Royalties 1
+Reduction result: domain" 1
+Reduction result: glory! 1
+Reduction result: II. 1
+Reduction result: learning, 1
+Reduction result: Burgundy; 1
+Reduction result: orators 1
+Reduction result: wounds 1
+Reduction result: pirates, 1
+Reduction result: tops 1
+45000 words added
+Reduction result: stirring. 1
+Reduction result: self-will'd, 1
+Reduction result: Sons 1
+Reduction result: carcanet. 1
+Reduction result: forced 1
+Reduction result: looking-glass, 1
+Reduction result: domain" 1
+Reduction result: say'st 1
+Reduction result: trust! 1
+Reduction result: linger 1
+46000 words added
+Reduction result: tragedian; 1
+Reduction result: fault! 1
+Reduction result: furious; 1
+Reduction result: terror 1
+Reduction result: peril. 1
+Reduction result: tame 1
+Reduction result: showers. 1
+Reduction result: madness 1
+Reduction result: ye. 1
+Reduction result: wrinkles; 1
+47000 words added
+Reduction result: theirs, 1
+Reduction result: wounds 1
+Reduction result: sea's 1
+Reduction result: execute 1
+Reduction result: recover 1
+Reduction result: Show 1
+Reduction result: dir 1
+Reduction result: delay. 1
+Reduction result: XCI 1
+Reduction result: faces.' 1
+Reduction result: pains; 1
+48000 words added
+Reduction result: bites, 1
+Reduction result: Mother, 1
+Reduction result: compeers 1
+Reduction result: showers. 1
+Reduction result: friends,' 1
+Reduction result: flattery! 1
+6000 queries made
+Reduction result: (Edward, 1
+Reduction result: feel'st 1
+Reduction result: in-Margaret. 1
+Reduction result: (though 1
+49000 words added
+Reduction result: imprison 1
+Reduction result: patent 1
+Reduction result: CDROMS. 1
+Reduction result: votary 1
+Reduction result: unstained 1
+Reduction result: forged 1
+Reduction result: awake 1
+Reduction result: rents. 1
+Reduction result: remove, 1
+Reduction result: complains 1
+50000 words added
+Reduction result: tongues. 1
+Reduction result: garden 1
+Reduction result: again; 1
+Reduction result: stalk, 1
+Reduction result: Talbot, 1
+Reduction result: speed! 1
+Reduction result: pains; 1
+Reduction result: fits! 1
+Reduction result: redemption 1
+Reduction result: Sap 1
+51000 words added
+Reduction result: Here. 1
+Reduction result: Strike! 1
+Reduction result: disdain, 1
+Reduction result: (72600.2026@compuserve.com); 1
+Reduction result: render, 1
+Reduction result: beard, 1
+Reduction result: Unmoved, 1
+Reduction result: falchion 1
+Reduction result: intelligence, 1
+Reduction result: words. 1
+Reduction result: shows, 1
+52000 words added
+Reduction result: parlous 1
+Reduction result: defence. 1
+Reduction result: determin'd, 1
+Reduction result: perfect'st 1
+Reduction result: Sing 1
+Reduction result: 'Small 1
+Done Reading pg1103.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   52583
+Total queries made:  6822
+Execution time:  34.76802477s

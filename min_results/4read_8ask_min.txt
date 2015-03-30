@@ -1,0 +1,1203 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 2921 lines of pg1041.txt
+Reading 3438 lines of pg1107.txt
+Reading 4854 lines of pg1112.txt
+Reading 4789 lines of pg1103.txt
+Reduction result: may 1
+Reduction result: it, 1
+1000 words added
+Reduction result: EDITIONS 1
+Reduction result: up 1
+Reduction result: program 1
+2000 words added
+Reduction result: where 1
+Reduction result: scene, 1
+Reduction result: [#1 1
+3000 words added
+Reduction result: suggest 1
+Reduction result: love, 1
+Reduction result: directly 1
+4000 words added
+Reduction result: whatsoever. 1
+1000 queries made
+Reduction result: households, 1
+5000 words added
+Reduction result: reached 1
+Reduction result: tells 1
+Reduction result: son 1
+6000 words added
+Reduction result: GLOUCESTER, 1
+Reduction result: Pay 1
+7000 words added
+Reduction result: rooteth 1
+Reduction result: efforts 1
+Reduction result: boy, 1
+8000 words added
+Reduction result: MINOLA, 1
+Reduction result: side 1
+Reduction result: airy 1
+9000 words added
+Reduction result: ornaments 1
+2000 queries made
+Reduction result: till 1
+10000 words added
+Reduction result: Count, 1
+Reduction result: Pity 1
+Reduction result: Unlook'd, 1
+11000 words added
+Reduction result: Within 1
+Reduction result: SC_2 1
+12000 words added
+Reduction result: tyrants 1
+Reduction result: Profaners 1
+Reduction result: pleaseth 1
+13000 words added
+Reduction result: pent 1
+Reduction result: speak 1
+Reduction result: ears 1
+14000 words added
+3000 queries made
+Reduction result: market. 1
+Reduction result: ETEXTS**START*** 1
+15000 words added
+Reduction result: Apothecary. 1
+Reduction result: mouths 1
+Reduction result: boy; 1
+16000 words added
+Reduction result: Villain, 1
+Reduction result: extremes. 1
+17000 words added
+Reduction result: cheered 1
+Reduction result: happies 1
+Reduction result: forbid 1
+18000 words added
+Reduction result: Die 1
+Reduction result: Nature's 1
+19000 words added
+Reduction result: Gentlemen 1
+4000 queries made
+Reduction result: What! 1
+Reduction result: subjects, 1
+20000 words added
+Reduction result: writ 1
+Reduction result: XVI 1
+Reduction result: [SLY 1
+21000 words added
+Reduction result: teen 1
+Reduction result: prepare 1
+22000 words added
+Reduction result: MESSENGER 1
+Reduction result: tool! 1
+Reduction result: excel; 1
+23000 words added
+Reduction result: "Defects". 1
+Reduction result: thoughts, 1
+5000 queries made
+24000 words added
+Reduction result: beguiled 1
+Reduction result: strut 1
+Reduction result: minimo.' 1
+25000 words added
+Reduction result: master's, 1
+Reduction result: he! 1
+26000 words added
+Reduction result: King; 1
+Reduction result: turns 1
+Reduction result: trademark 1
+27000 words added
+Reduction result: Defects 1
+Reduction result: forbid 1
+28000 words added
+Reduction result: delightful 1
+Reduction result: rose-water 1
+Reduction result: marriage 1
+6000 queries made
+29000 words added
+Reduction result: pitch, 1
+Reduction result: dreamt 1
+Reduction result: walls 1
+30000 words added
+Reduction result: are. 1
+Reduction result: imperfect 1
+31000 words added
+Reduction result: marry. 1
+Reduction result: choler 1
+Reduction result: liability, 1
+32000 words added
+Reduction result: unharm'd. 1
+Reduction result: Look, 1
+33000 words added
+Reduction result: XXXVI 1
+Reduction result: fool; 1
+7000 queries made
+Reduction result: consum'st 1
+34000 words added
+Reduction result: sue 1
+Reduction result: Tickle 1
+35000 words added
+Reduction result: give: 1
+Reduction result: Graces 1
+Reduction result: overthrows 1
+36000 words added
+Reduction result: ornament, 1
+Reduction result: Madam 1
+Reduction result: joiner 1
+37000 words added
+Reduction result: submissive 1
+Reduction result: Theirs 1
+38000 words added
+Reduction result: fond 1
+Reduction result: Torments 1
+8000 queries made
+Reduction result: cessing 1
+39000 words added
+Reduction result: computerized 1
+Reduction result: tinker 1
+40000 words added
+Reduction result: herald 1
+Reduction result: merchant 1
+Reduction result: barbed 1
+41000 words added
+Reduction result: possess, 1
+Reduction result: seven 1
+Reduction result: shook 1
+42000 words added
+Reduction result: shuns 1
+Reduction result: jaws, 1
+43000 words added
+Reduction result: flame 1
+9000 queries made
+Reduction result: derive, 1
+Reduction result: passion; 1
+44000 words added
+Reduction result: pardon!- 1
+Reduction result: rondure 1
+45000 words added
+Reduction result: billows 1
+Reduction result: affection 1
+Reduction result: lie; 1
+46000 words added
+Reduction result: idly 1
+Reduction result: take. 1
+Reduction result: better. 1
+47000 words added
+Reduction result: weighty 1
+Reduction result: pities 1
+48000 words added
+Reduction result: king's 1
+10000 queries made
+Reduction result: bar 1
+Reduction result: Pimpernell; 1
+49000 words added
+Reduction result: nest. 1
+Reduction result: farther, 1
+Reduction result: rest, 1
+50000 words added
+Reduction result: women: 1
+Reduction result: best, 1
+51000 words added
+Reduction result: invoked 1
+Reduction result: smooth, 1
+Reduction result: follower! 1
+52000 words added
+Reduction result: beguiled 1
+Reduction result: transgression. 1
+53000 words added
+Reduction result: commits. 1
+11000 queries made
+Reduction result: Look, 1
+Reduction result: medlars 1
+54000 words added
+Reduction result: harm. 1
+Reduction result: sue 1
+55000 words added
+Reduction result: contempt; 1
+Reduction result: blessing. 1
+Reduction result: think! 1
+56000 words added
+Reduction result: Salisbury) 1
+Reduction result: down-raz'd, 1
+Reduction result: arrest 1
+57000 words added
+Reduction result: standers 1
+Reduction result: nonage, 1
+12000 queries made
+58000 words added
+Reduction result: acceptable 1
+Reduction result: extremes. 1
+Reduction result: always 1
+59000 words added
+Reduction result: destroy 1
+Reduction result: flow'ring 1
+Reduction result: wantons 1
+60000 words added
+Reduction result: couplement 1
+Reduction result: forsworn 1
+61000 words added
+Reduction result: wise? 1
+Reduction result: mouthed 1
+Reduction result: ANNE, 1
+62000 words added
+Reduction result: livery: 1
+Reduction result: rights 1
+13000 queries made
+Reduction result: solemnity? 1
+63000 words added
+Reduction result: Vitruvio; 1
+Reduction result: [get 1
+64000 words added
+Reduction result: hearkens 1
+Reduction result: swung 1
+Reduction result: strife 1
+65000 words added
+Reduction result: market. 1
+Reduction result: Lies 1
+66000 words added
+Reduction result: She'll 1
+Reduction result: gentlefolks. 1
+Reduction result: references 1
+67000 words added
+Reduction result: crown'd, 1
+14000 queries made
+Reduction result: alarums, 1
+Reduction result: lead. 1
+68000 words added
+Reduction result: English 1
+Reduction result: Belonging 1
+69000 words added
+Reduction result: Loving 1
+Reduction result: face: 1
+Reduction result: brightness 1
+70000 words added
+Reduction result: nimble-pinion'd 1
+Reduction result: bean 1
+71000 words added
+Reduction result: quarrel? 1
+Reduction result: Leese 1
+Reduction result: murders, 1
+72000 words added
+Reduction result: pains 1
+15000 queries made
+Reduction result: join'd-stool. 1
+Reduction result: another; 1
+73000 words added
+Reduction result: stout, 1
+Reduction result: deliciousness 1
+74000 words added
+Reduction result: thanks; 1
+Reduction result: tyrant. 1
+Reduction result: unprovided? 1
+75000 words added
+Reduction result: English 1
+Reduction result: Affection's 1
+76000 words added
+Reduction result: Possessing 1
+Reduction result: Duty 1
+Reduction result: means. 1
+77000 words added
+16000 queries made
+Reduction result: keen, 1
+Reduction result: bosoms 1
+Reduction result: a-bleeding; 1
+78000 words added
+Reduction result: falling 1
+Done Reading pg1041.txt
+Reduction result: BERKELEY, 1
+Reduction result: decreed, 1
+79000 words added
+Reduction result: 'honour' 1
+Reduction result: arm; 1
+Reduction result: murders, 1
+80000 words added
+Reduction result: restrained 1
+Reduction result: he! 1
+Reduction result: head? 1
+Reduction result: sorrow. 1
+17000 queries made
+81000 words added
+Reduction result: taketh 1
+Reduction result: along? 1
+Reduction result: VAUGHAN. 1
+Reduction result: suddenly? 1
+82000 words added
+Reduction result: barn, 1
+Reduction result: BOTH 1
+Reduction result: players, 1
+83000 words added
+Reduction result: undeserved 1
+Reduction result: players, 1
+Reduction result: is,-- 1
+Reduction result: By'r 1
+84000 words added
+Reduction result: phoenix, 1
+18000 queries made
+Reduction result: Little. 1
+Reduction result: lunacy. 1
+85000 words added
+Reduction result: Lucio 1
+Reduction result: saint-seducing 1
+Reduction result: distill'd, 1
+Reduction result: thee,--myself,--that 1
+86000 words added
+Reduction result: XXXIX 1
+Reduction result: meat; 1
+Reduction result: Excusing 1
+87000 words added
+Reduction result: girded 1
+Reduction result: 'Wilt 1
+Reduction result: myself- 1
+Reduction result: four, 1
+19000 queries made
+88000 words added
+Reduction result: Northampton 1
+Reduction result: masks 1
+Reduction result: patroness 1
+Reduction result: again! 1
+89000 words added
+Reduction result: guarded, 1
+Reduction result: imitated 1
+Reduction result: painful 1
+90000 words added
+Reduction result: unseeing 1
+Reduction result: brotherhood 1
+Reduction result: overheard'st, 1
+Reduction result: validity, 1
+91000 words added
+Reduction result: recorded 1
+20000 queries made
+Reduction result: womb; 1
+Reduction result: waddled 1
+Done Reading pg1107.txt
+Reduction result: sharp-provided 1
+92000 words added
+Reduction result: feet- 1
+Reduction result: bar, 1
+Reduction result: awake: 1
+Reduction result: arm; 1
+Reduction result: fashion, 1
+Reduction result: chaste? 1
+93000 words added
+Reduction result: affecting 1
+Reduction result: papers, 1
+Reduction result: cowardly, 1
+Reduction result: Lays 1
+21000 queries made
+Reduction result: amorous, 1
+Reduction result: linen, 1
+94000 words added
+Reduction result: rise; 1
+Reduction result: devis'd, 1
+Reduction result: ruffian 1
+Reduction result: plain? 1
+Reduction result: foes, 1
+Reduction result: hilding! 1
+95000 words added
+Reduction result: teat. 1
+Reduction result: griefs! 1
+Reduction result: lane 1
+Reduction result: saint; 1
+Reduction result: embassage, 1
+22000 queries made
+Reduction result: complaining. 1
+Reduction result: ruinate 1
+Reduction result: out? 1
+96000 words added
+Reduction result: smoke, 1
+Reduction result: annual 1
+Reduction result: [others]. 1
+Reduction result: reward 1
+Reduction result: contradict 1
+Reduction result: throats, 1
+97000 words added
+Reduction result: marjoram 1
+Reduction result: hawking? 1
+Reduction result: warrant] 1
+Reduction result: (Internet, 1
+23000 queries made
+Reduction result: grew. 1
+Reduction result: foe's 1
+Reduction result: Woe 1
+98000 words added
+Reduction result: Cuts 1
+Reduction result: By'r 1
+Reduction result: tops 1
+Reduction result: weeping. 1
+Reduction result: loathes 1
+Reduction result: prologue, 1
+Reduction result: breakfast 1
+Reduction result: descend. 1
+99000 words added
+Reduction result: reported. 1
+Reduction result: along? 1
+Reduction result: gate. 1
+24000 queries made
+Reduction result: accomplished; 1
+Reduction result: angelical! 1
+Reduction result: prompter, 1
+Reduction result: tend, 1
+Reduction result: brotherhood 1
+100000 words added
+Reduction result: usury, 1
+Reduction result: Theirs 1
+Reduction result: Furies, 1
+Reduction result: weeds: 1
+Reduction result: schoolmaster, 1
+Reduction result: mockery 1
+Reduction result: knots; 1
+Reduction result: field-bed 1
+Reduction result: Wisely, 1
+25000 queries made
+Reduction result: pictur'd 1
+Reduction result: [others]. 1
+Reduction result: RICHMOND, 1
+Reduction result: ensuring 1
+Reduction result: unwilling. 1
+Reduction result: Joseph 1
+Reduction result: domineer, 1
+101000 words added
+Reduction result: swallow 1
+Reduction result: holes 1
+Reduction result: expressing, 1
+Reduction result: accents 1
+Reduction result: none? 1
+Reduction result: beauties. 1
+Reduction result: catch. 1
+Reduction result: angelical! 1
+Reduction result: earl. 1
+Reduction result: language. 1
+Reduction result: chaste? 1
+26000 queries made
+Reduction result: Dulling 1
+Reduction result: victor 1
+Reduction result: confess'd 1
+Reduction result: stout, 1
+Reduction result: catch. 1
+Reduction result: lineament, 1
+Reduction result: sets 1
+Reduction result: hours? 1
+Reduction result: hours? 1
+Reduction result: Sampson 1
+Reduction result: Cousins, 1
+Done Reading pg1112.txt
+Reduction result: mickle 1
+Reduction result: rule 1
+Reduction result: Speak, 1
+Reduction result: asleep: 1
+Reduction result: rewarder 1
+Reduction result: 'banished' 1
+Reduction result: Wrapp'd 1
+Reduction result: satiety 1
+Reduction result: CVII 1
+Reduction result: furious 1
+Reduction result: kindness. 1
+Reduction result: spent; 1
+27000 queries made
+Reduction result: Spread 1
+Reduction result: habits] 1
+Reduction result: Shuts 1
+Reduction result: profane 1
+Reduction result: unseeing 1
+Reduction result: sew'd 1
+Reduction result: murd'rer 1
+Reduction result: pricking, 1
+Reduction result: 'husband'; 1
+Reduction result: suck 1
+Reduction result: Montague's 1
+Reduction result: Son, 1
+Reduction result: Britaine. 1
+Reduction result: true-the 1
+Reduction result: ills 1
+Reduction result: monstrous, 1
+Reduction result: bristly 1
+Reduction result: discovery, 1
+Reduction result: courts 1
+Reduction result: rancorous 1
+Reduction result: friends'; 1
+Reduction result: unwept! 1
+Reduction result: amorous, 1
+Reduction result: surpris'd, 1
+Reduction result: attempts. 1
+28000 queries made
+Reduction result: office? 1
+Reduction result: XCV 1
+Reduction result: charnel 1
+Reduction result: allies 1
+Reduction result: ruin, 1
+Reduction result: baggage; 1
+Reduction result: pow'rful 1
+102000 words added
+Reduction result: cruel! 1
+Reduction result: 7. 1
+Reduction result: Consum'd 1
+Reduction result: hairs, 1
+Reduction result: separated 1
+Reduction result: copatain 1
+Reduction result: tell-tale 1
+Reduction result: unnatural. 1
+Reduction result: owe. 1
+Reduction result: Rail 1
+Reduction result: divinest 1
+Reduction result: Vitruvio; 1
+Reduction result: guest. 1
+Reduction result: pry, 1
+Reduction result: There! 1
+Reduction result: pois'd 1
+Reduction result: knock, 1
+Reduction result: Carnegie- 1
+Reduction result: savours, 1
+29000 queries made
+Reduction result: peers. 1
+Reduction result: road. 1
+Reduction result: exceed 1
+Reduction result: CLIV 1
+Reduction result: burst 1
+Reduction result: perdonato, 1
+Reduction result: unfashionable 1
+Reduction result: gentlewomen, 1
+Reduction result: uncle. 1
+Reduction result: Sampson 1
+Reduction result: drew'st 1
+Reduction result: chest 1
+Reduction result: proportion; 1
+Reduction result: beheaded. 1
+Reduction result: depart, 1
+Reduction result: waded 1
+Reduction result: brake 1
+Reduction result: impatience. 1
+Reduction result: thought: 1
+Reduction result: breathe? 1
+Reduction result: restrained 1
+Reduction result: Gloucester's 1
+Reduction result: roe, 1
+Reduction result: Uncertain 1
+Reduction result: swung 1
+Reduction result: brook, 1
+Reduction result: collection. 1
+30000 queries made
+Reduction result: five. 1
+Reduction result: fastest 1
+Reduction result: gather'd. 1
+Reduction result: unharm'd. 1
+Reduction result: nearer 1
+Reduction result: Cuts 1
+Reduction result: mar. 1
+Reduction result: speeds 1
+Reduction result: Sland'ring 1
+Reduction result: courtship 1
+Reduction result: tailors 1
+Reduction result: blaze 1
+Reduction result: fastest 1
+Reduction result: [SLY 1
+Reduction result: comedy; 1
+Reduction result: unseeing 1
+Reduction result: XLVII 1
+Reduction result: prevails 1
+Reduction result: cedar's 1
+Reduction result: Third 1
+Reduction result: window, 1
+Reduction result: well-contented 1
+Reduction result: prophet 1
+Reduction result: wilfulness 1
+Reduction result: assisting 1
+Reduction result: back'd 1
+Reduction result: Bruis'd 1
+Reduction result: tight 1
+31000 queries made
+Reduction result: infold 1
+Reduction result: life: 1
+Reduction result: instead 1
+Reduction result: order; 1
+Reduction result: untalk'd 1
+Reduction result: walls; 1
+Reduction result: feet- 1
+Reduction result: mickle 1
+Reduction result: 'Thus, 1
+Reduction result: burthens 1
+Reduction result: cell; 1
+Reduction result: recover 1
+Reduction result: pill'd 1
+Reduction result: rhyme 1
+Reduction result: shut. 1
+Reduction result: prepare, 1
+Reduction result: misprision 1
+Reduction result: slaught'red, 1
+Reduction result: confin'd, 1
+Reduction result: Points 1
+Reduction result: devils! 1
+Reduction result: made? 1
+Reduction result: tombs. 1
+Reduction result: Uncase 1
+Reduction result: bosom; 1
+Reduction result: damn'd 1
+Reduction result: Forthwith 1
+Reduction result: Deform'd, 1
+Reduction result: weeping. 1
+32000 queries made
+Reduction result: All-Seer 1
+Reduction result: Woe 1
+Reduction result: thing- 1
+Reduction result: putting 1
+Reduction result: comonty 1
+Reduction result: lamps 1
+Reduction result: embark'd 1
+Reduction result: armoury, 1
+Reduction result: nonage, 1
+Reduction result: deity 1
+Reduction result: grumble? 1
+Reduction result: after? 1
+Reduction result: 'love' 1
+Reduction result: drunk? 1
+Reduction result: married; 1
+Reduction result: fil'd. 1
+Reduction result: blindness, 1
+Reduction result: sink, 1
+Reduction result: advis'd? 1
+Reduction result: CONTRACT 1
+Reduction result: himself-which 1
+Reduction result: Roundly 1
+Reduction result: crupper 1
+Reduction result: lacked, 1
+Reduction result: reap, 1
+Reduction result: th'art 1
+Reduction result: swits 1
+Reduction result: building, 1
+Reduction result: triumphing, 1
+Reduction result: armoury, 1
+33000 queries made
+Reduction result: sport, 1
+Reduction result: URSWICK, 1
+103000 words added
+Reduction result: circumstance. 1
+Reduction result: maidenhead! 1
+Reduction result: nurs'd 1
+Reduction result: kindness. 1
+Reduction result: Venice 1
+Reduction result: Part, 1
+Reduction result: late! 1
+Reduction result: Unthrifty 1
+Reduction result: Led 1
+Reduction result: LXI 1
+Reduction result: Robb'd 1
+Reduction result: defacer 1
+Reduction result: fly; 1
+Reduction result: purg'd. 1
+Reduction result: pithy, 1
+Reduction result: branded, 1
+Reduction result: hostess 1
+Reduction result: abhor 1
+Reduction result: whip, 1
+Reduction result: sheer 1
+Reduction result: quarrels 1
+Reduction result: smilest 1
+Reduction result: infectious 1
+Reduction result: 1000+ 1
+Reduction result: Sufficeth, 1
+Reduction result: measures. 1
+Reduction result: Huntsman, 1
+Reduction result: XXIII 1
+Reduction result: canopy, 1
+34000 queries made
+Reduction result: Belonging 1
+Reduction result: play'st, 1
+Reduction result: aloud; 1
+Reduction result: countryman, 1
+Reduction result: joy: 1
+Reduction result: bean 1
+Reduction result: editing. 1
+Reduction result: crept, 1
+Reduction result: pictur'd 1
+Reduction result: ignorant. 1
+Reduction result: Hie, 1
+Reduction result: token. 1
+Reduction result: soon-speeding 1
+Reduction result: lour'd 1
+Reduction result: maidenheads. 1
+Reduction result: dank 1
+Reduction result: NEW 1
+Reduction result: forbids. 1
+Reduction result: proof! 1
+Reduction result: authority, 1
+Reduction result: event 1
+Reduction result: untrue, 1
+Reduction result: advocate,-- 1
+Reduction result: liest, 1
+Reduction result: idleness; 1
+Reduction result: intercession 1
+Reduction result: enemy? 1
+Reduction result: maiden-widowed. 1
+Reduction result: boy!' 1
+Reduction result: league. 1
+Reduction result: spavins, 1
+35000 queries made
+Reduction result: RATCLIFF; 1
+Reduction result: younger. 1
+Reduction result: pirates, 1
+Reduction result: fools' 1
+Reduction result: Fairer 1
+Reduction result: antiquity 1
+Reduction result: priest. 1
+Reduction result: denial; 1
+Reduction result: betray'd 1
+Reduction result: sovereign. 1
+Reduction result: doom; 1
+Reduction result: strumpeted, 1
+Reduction result: offended; 1
+Reduction result: comes; 1
+Reduction result: weeping. 1
+Reduction result: cypress 1
+Reduction result: Semiramis. 1
+Reduction result: wiry 1
+Reduction result: companions, 1
+Reduction result: twain 1
+Reduction result: foot? 1
+Reduction result: Tarry, 1
+Reduction result: masonry, 1
+Reduction result: overjoyed 1
+Reduction result: scoffs. 1
+Reduction result: truth:-- 1
+Reduction result: doom; 1
+Reduction result: murderous 1
+Reduction result: cricket's 1
+Reduction result: drag 1
+Reduction result: alderman, 1
+Reduction result: studded 1
+36000 queries made
+Reduction result: bait, 1
+Reduction result: LXXXIX 1
+Reduction result: guile, 1
+Reduction result: earldom- 1
+Reduction result: pupils 1
+Reduction result: rule 1
+Reduction result: presence. 1
+Reduction result: sheaves, 1
+Reduction result: awhile? 1
+Reduction result: afeard 1
+Reduction result: turn'd, 1
+Reduction result: pilgrims, 1
+Reduction result: apples. 1
+Reduction result: game 1
+Reduction result: Biondello 1
+Reduction result: o'er-worn 1
+Reduction result: green-sickness 1
+Reduction result: Smile 1
+Reduction result: nice, 1
+Reduction result: unfeignedly. 1
+Reduction result: panting 1
+Reduction result: from? 1
+Reduction result: households' 1
+Reduction result: delivered 1
+Reduction result: wires 1
+Reduction result: poor; 1
+Reduction result: Fie! 1
+Reduction result: wander'st 1
+Reduction result: propos'd 1
+Reduction result: bewailed 1
+Reduction result: mistresses! 1
+Reduction result: generations 1
+Reduction result: innocent? 1
+Reduction result: hard-hearted 1
+Reduction result: Neither, 1
+37000 queries made
+Reduction result: grind 1
+Reduction result: Cheered 1
+Reduction result: list; 1
+Reduction result: cure. 1
+Reduction result: sew 1
+Reduction result: entreated. 1
+Reduction result: purest 1
+Reduction result: shower 1
+Reduction result: Forgetting 1
+Reduction result: griefs! 1
+Reduction result: injurious 1
+Reduction result: spruce 1
+Reduction result: Accursed 1
+Reduction result: cake 1
+Reduction result: extremes. 1
+Reduction result: approv'd 1
+Reduction result: towns 1
+Reduction result: Philip? 1
+Reduction result: unworthiest 1
+Reduction result: arithmetic! 1
+Reduction result: he! 1
+Reduction result: 1.F.1. 1
+Reduction result: accessary 1
+Reduction result: Foes 1
+Reduction result: dispose 1
+Reduction result: it-as, 1
+Reduction result: contempt? 1
+Reduction result: paper.] 1
+Reduction result: beck. 1
+Reduction result: LXXIII 1
+Reduction result: 'promis'd 1
+Reduction result: sin-absolver, 1
+Reduction result: poison; 1
+Reduction result: crown'd, 1
+Reduction result: roar'd 1
+Reduction result: after-loss: 1
+Reduction result: gamesome, 1
+38000 queries made
+Reduction result: elbow, 1
+Reduction result: widow'd 1
+Reduction result: welkin 1
+Reduction result: feed'st 1
+Reduction result: divorced, 1
+104000 words added
+Reduction result: judgment-day. 1
+Reduction result: rabbit; 1
+Reduction result: wanteth 1
+Reduction result: PLAYERS. 1
+Reduction result: foulest 1
+Reduction result: instruments, 1
+Reduction result: language. 1
+Reduction result: load; 1
+Reduction result: smoking 1
+Reduction result: mournful 1
+Reduction result: Dorsetshire 1
+Reduction result: vengeful 1
+Reduction result: noddle 1
+Reduction result: weapons. 1
+Reduction result: raiment, 1
+Reduction result: pass; 1
+Reduction result: confounded, 1
+Reduction result: TRAGEDY 1
+Reduction result: beholding. 1
+Reduction result: swear- 1
+Reduction result: express'd; 1
+Reduction result: mother?"' 1
+Reduction result: unharm'd. 1
+Reduction result: Pity, 1
+Reduction result: wooing. 1
+Reduction result: fire? 1
+Reduction result: declines, 1
+Reduction result: catch'd 1
+Reduction result: meetings, 1
+Reduction result: House 1
+39000 queries made
+Reduction result: wanton's 1
+Reduction result: goose 1
+Reduction result: (exquisite) 1
+Reduction result: unrespected; 1
+Reduction result: Men. 1
+Reduction result: those- 1
+Reduction result: households' 1
+Reduction result: way: 1
+Reduction result: dearer: 1
+Reduction result: other: 1
+Reduction result: CXLI 1
+Reduction result: unsubstantial 1
+Reduction result: numb 1
+Reduction result: grind 1
+Reduction result: utters 1
+Reduction result: spring! 1
+Reduction result: humorous 1
+Reduction result: whatsoe'er 1
+Reduction result: hereabout. 1
+Reduction result: it-it 1
+Reduction result: honouring, 1
+Reduction result: motion's 1
+Reduction result: Lammastide? 1
+Reduction result: carouses 1
+Reduction result: lasts. 1
+Reduction result: East 1
+Reduction result: Clouds 1
+Reduction result: muscadel, 1
+Reduction result: teen. 1
+Reduction result: condition: 1
+Reduction result: Soon 1
+Reduction result: TYRREL, 1
+Reduction result: Wrapp'd 1
+Reduction result: Thomas, 1
+Reduction result: mile 1
+40000 queries made
+Reduction result: remains. 1
+Reduction result: bitt'rest 1
+Reduction result: evident: 1
+Reduction result: dwells, 1
+Reduction result: Spurn 1
+Reduction result: soul- 1
+Reduction result: knavery 1
+Reduction result: length 1
+Reduction result: rite, 1
+Reduction result: dirt; 1
+Reduction result: on't; 1
+Reduction result: bridle 1
+Reduction result: part's 1
+Reduction result: show'st 1
+Reduction result: presence? 1
+Reduction result: Pity, 1
+Reduction result: sound'- 1
+Reduction result: asleep 1
+Reduction result: bedash'd 1
+Reduction result: Nearer 1
+Reduction result: pence 1
+Reduction result: tetchy 1
+Reduction result: untalk'd 1
+Reduction result: recompense, 1
+Reduction result: Good, 1
+Reduction result: names. 1
+Reduction result: XCIX 1
+Reduction result: knife. 1
+Reduction result: comonty 1
+Reduction result: load; 1
+Reduction result: star, 1
+Reduction result: Kiss 1
+Reduction result: love?' 1
+Reduction result: Leap 1
+Reduction result: sounding 1
+Reduction result: eats 1
+41000 queries made
+Reduction result: counterfeit: 1
+Reduction result: bestraught. 1
+Reduction result: playfellow 1
+Reduction result: answered 1
+Reduction result: donors 1
+Reduction result: extremes. 1
+Reduction result: Iron 1
+Reduction result: Injurious 1
+Reduction result: SCRIVENER. 1
+Reduction result: made; 1
+Reduction result: joy: 1
+Reduction result: leap 1
+Reduction result: might? 1
+Reduction result: made; 1
+Reduction result: gave, 1
+Reduction result: proverb'd 1
+Reduction result: possessions, 1
+Reduction result: ears; 1
+Reduction result: vanity! 1
+Reduction result: presume, 1
+Reduction result: expressing, 1
+Reduction result: somewhat 1
+Reduction result: [Nurse] 1
+Reduction result: THOSE 1
+Reduction result: therein, 1
+Reduction result: separated 1
+Reduction result: son-in-law. 1
+Reduction result: list.' 1
+Reduction result: By-and-by 1
+Reduction result: proceeding, 1
+Reduction result: Transparent 1
+Reduction result: rain-in 1
+Reduction result: remains 1
+Reduction result: heir? 1
+Reduction result: execute 1
+Reduction result: sleep's 1
+Reduction result: hearts! 1
+42000 queries made
+Reduction result: trick 1
+Reduction result: cank'red 1
+Reduction result: holes 1
+Reduction result: honouring, 1
+Reduction result: importun'd 1
+Reduction result: love-suit, 1
+Reduction result: dallying 1
+Reduction result: paid.- 1
+Reduction result: [Enters 1
+Reduction result: regia 1
+Reduction result: wander'st 1
+Reduction result: XV 1
+Reduction result: calamity. 1
+Reduction result: distance 1
+Reduction result: contradict 1
+Reduction result: France; 1
+Reduction result: proud'? 1
+Reduction result: HUNTSMEN 1
+Reduction result: wantonness; 1
+Reduction result: Pilate, 1
+Reduction result: away--you 1
+Reduction result: replenished 1
+Reduction result: domain" 1
+Reduction result: bigger; 1
+Reduction result: diest 1
+Reduction result: hog, 1
+Reduction result: motion's 1
+Reduction result: accusing 1
+Reduction result: empire, 1
+Reduction result: nuns, 1
+Reduction result: bad! 1
+Reduction result: accusing 1
+Reduction result: ears! 1
+Reduction result: wanders 1
+Reduction result: language. 1
+Reduction result: execute 1
+Reduction result: least. 1
+Reduction result: shows, 1
+Reduction result: other; 1
+43000 queries made
+Reduction result: Potions 1
+Reduction result: deformed'st 1
+Reduction result: nymphs 1
+Reduction result: spring. 1
+Reduction result: Consum'd 1
+Reduction result: observ'd 1
+Reduction result: Livia; 1
+Reduction result: masquing 1
+Reduction result: mocking; 1
+Reduction result: Bitnet, 1
+Reduction result: sights; 1
+Reduction result: skulls, 1
+Reduction result: affecting 1
+Reduction result: spent; 1
+Reduction result: weighty. 1
+Reduction result: respects; 1
+Reduction result: Katherine; 1
+105000 words added
+Reduction result: Strikes 1
+Reduction result: running 1
+Reduction result: Spread 1
+Reduction result: dates, 1
+Reduction result: terrible 1
+Reduction result: dispraise 1
+Reduction result: exposition. 1
+Reduction result: tresses 1
+Reduction result: tilts 1
+Reduction result: Laurence, 1
+Reduction result: assurance. 1
+Reduction result: good: 1
+Reduction result: (801) 1
+Reduction result: Wouldst 1
+Reduction result: gnaw'd 1
+Reduction result: door! 1
+Reduction result: remnant 1
+Reduction result: EXCEPT 1
+Reduction result: quarrel? 1
+Reduction result: meditation. 1
+Reduction result: dowdy, 1
+Reduction result: warn'd 1
+44000 queries made
+Reduction result: Reward 1
+Reduction result: mow: 1
+Reduction result: shows, 1
+Reduction result: fellowship 1
+Reduction result: anon.- 1
+Reduction result: death- 1
+Reduction result: [EBook 1
+Reduction result: confusions. 1
+Reduction result: five. 1
+Reduction result: jades, 1
+Reduction result: Valentio 1
+Reduction result: heaviness. 1
+Reduction result: vanish'd. 1
+Reduction result: vassalage 1
+Reduction result: both! 1
+Reduction result: remedies 1
+Reduction result: toil'd: 1
+Reduction result: here: 1
+Reduction result: Cousins, 1
+Reduction result: sequent 1
+Reduction result: Junes 1
+Reduction result: withered 1
+Reduction result: dam; 1
+Reduction result: wssnt10.txt 1
+Reduction result: rattling 1
+Reduction result: Presents 1
+Reduction result: beck. 1
+Reduction result: fame! 1
+Reduction result: scarfs 1
+Reduction result: Is- 1
+Reduction result: tempers 1
+Reduction result: idle? 1
+Reduction result: spent: 1
+Reduction result: blows, 1
+Reduction result: condition- 1
+Reduction result: self-doing 1
+Reduction result: descant 1
+Reduction result: contagion, 1
+Reduction result: sequent 1
+45000 queries made
+Reduction result: George. 1
+Reduction result: kisses, 1
+Reduction result: underfoot. 1
+Reduction result: affrighted 1
+Reduction result: din'd? 1
+Reduction result: aye 1
+Reduction result: vassals! 1
+Reduction result: Beloved 1
+Reduction result: confessor, 1
+Reduction result: vast 1
+Reduction result: shine, 1
+Reduction result: MURDERER 1
+Reduction result: wrack, 1
+Reduction result: Breathed 1
+Reduction result: partisans. 1
+Reduction result: Trow 1
+Reduction result: king!-perhaps- 1
+Reduction result: wreck; 1
+Reduction result: sir-reverence 1
+Reduction result: Soon 1
+Reduction result: teat. 1
+Reduction result: fry. 1
+Reduction result: obedient. 1
+Reduction result: Bend 1
+Reduction result: beauties; 1
+Reduction result: star; 1
+Reduction result: innocents, 1
+Reduction result: ears; 1
+Reduction result: aid. 1
+Reduction result: Fare 1
+Reduction result: Pages) 1
+Reduction result: plant. 1
+Reduction result: warrant] 1
+Reduction result: packet 1
+Reduction result: ay; 1
+Reduction result: Talkers 1
+Reduction result: maids? 1
+Reduction result: extremes. 1
+Reduction result: mind's 1
+Reduction result: eyes! 1
+46000 queries made
+Reduction result: EXCEPT 1
+Reduction result: stay'st 1
+Reduction result: lamentations 1
+Reduction result: quarrelling. 1
+Reduction result: lump 1
+Reduction result: lawless 1
+Reduction result: gapes, 1
+Reduction result: Gloucester's 1
+Reduction result: well-govern'd 1
+Reduction result: new: 1
+Reduction result: resolved 1
+Reduction result: needle 1
+Reduction result: beholding. 1
+Reduction result: [Falls 1
+Reduction result: tempers 1
+Reduction result: Return'd 1
+Reduction result: pallabris; 1
+Reduction result: bear'st 1
+Reduction result: bird's 1
+Reduction result: ALL 1
+Reduction result: King; 1
+Reduction result: vision 1
+Reduction result: LXXXIX 1
+Reduction result: stream 1
+Reduction result: stomach. 1
+Reduction result: somewhat 1
+Reduction result: awry; 1
+Reduction result: shout 1
+Reduction result: Smatter 1
+Reduction result: prognosticate: 1
+Reduction result: (with 1
+Reduction result: serve. 1
+Reduction result: recover 1
+Reduction result: possession, 1
+Reduction result: beds' 1
+Reduction result: dower 1
+Reduction result: key, 1
+Done Reading pg1103.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   105641
+Total queries made:  46895
+Execution time:  1m58.826880243s

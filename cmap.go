@@ -25,9 +25,9 @@ func NewChannelMap() *emap {
     em.readerIn = make(chan string, ASK_BUFFER_SIZE)
     em.readerOut = make(chan int, ASK_BUFFER_SIZE)
     em.writers = make(chan string, ADD_BUFFER_SIZE)
-    em.reduceRequest = make(chan int,1)
-    em.reduceResponse = make(chan int,1)
-    em.doneReducing = make(chan int,1)
+    em.reduceRequest = make(chan int, ADD_BUFFER_SIZE)//1
+    em.reduceResponse = make(chan int, ADD_BUFFER_SIZE)//1
+    em.doneReducing = make(chan int, ADD_BUFFER_SIZE)//1
     return &em
 }
 

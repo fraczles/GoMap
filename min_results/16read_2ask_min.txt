@@ -1,0 +1,832 @@
+Concurrent Maps
+--------------------
+
+Creating Map
+pg1041.txt,pg1103.txt,pg1107.txt,pg1112.txt,pg1120.txt,pg1128.txt,pg1129.txt,pg1514.txt,pg1524.txt,pg2235.txt,pg2240.txt,pg2242.txt,pg2243.txt,pg2264.txt,pg2265.txt,pg2267.txt
+Reading query file
+Starting Askers
+Starting Readers
+Starting Reducer
+
+Running
+
+Reading 3120 lines of pg2242.txt
+Reading 3751 lines of pg2243.txt
+Reading 4789 lines of pg1103.txt
+Reading 3923 lines of pg2240.txt
+Reading 5303 lines of pg2265.txt
+Reading 3438 lines of pg1107.txt
+Reading 2921 lines of pg1041.txt
+Reading 3668 lines of pg2264.txt
+Reading 3333 lines of pg1120.txt
+Reading 4854 lines of pg1112.txt
+Reading 3197 lines of pg1129.txt
+Reading 3761 lines of pg1514.txt
+Reading 7067 lines of pg1524.txt
+Reading 3561 lines of pg2235.txt
+Reading 5043 lines of pg2267.txt
+Reading 4512 lines of pg1128.txt
+Reduction result: Nights 1
+1000 words added
+2000 words added
+Reduction result: give 1
+3000 words added
+Reduction result: almost 1
+4000 words added
+5000 words added
+Reduction result: twenty 1
+6000 words added
+Reduction result: Release 1
+7000 words added
+Reduction result: Verona; 1
+8000 words added
+9000 words added
+Reduction result: Mantua. 1
+10000 words added
+Reduction result: foes 1
+11000 words added
+12000 words added
+Reduction result: Musicians. 1
+13000 words added
+Reduction result: maids, 1
+14000 words added
+15000 words added
+Reduction result: 5% 1
+16000 words added
+Reduction result: kinsmen. 1
+17000 words added
+18000 words added
+Reduction result: #1,000] 1
+19000 words added
+Reduction result: EBook 1
+20000 words added
+21000 words added
+Reduction result: Embry-Riddle 1
+22000 words added
+Reduction result: shalt 1
+23000 words added
+24000 words added
+Reduction result: maids, 1
+25000 words added
+26000 words added
+Reduction result: passage 1
+27000 words added
+Reduction result: 2ws1710.zip****** 1
+28000 words added
+29000 words added
+Reduction result: Author: 1
+30000 words added
+Reduction result: glasses 1
+31000 words added
+32000 words added
+Reduction result: sign 1
+33000 words added
+Reduction result: G 1
+34000 words added
+35000 words added
+Reduction result: Doctor. 1
+36000 words added
+Reduction result: thirty-two 1
+37000 words added
+38000 words added
+Reduction result: it? 1
+39000 words added
+Reduction result: Mantua. 1
+40000 words added
+41000 words added
+Reduction result: talk 1
+42000 words added
+Reduction result: RATCLIFF 1
+43000 words added
+44000 words added
+Reduction result: ask 1
+45000 words added
+Reduction result: approach. 1
+46000 words added
+47000 words added
+Reduction result: gawds, 1
+48000 words added
+49000 words added
+Reduction result: too; 1
+50000 words added
+Reduction result: worthless 1
+51000 words added
+52000 words added
+Reduction result: sailor's 1
+53000 words added
+Reduction result: prepar'd; 1
+54000 words added
+Reduction result: sleeue 1
+55000 words added
+Reduction result: 'Will't 1
+56000 words added
+Reduction result: o'er-snowed 1
+57000 words added
+58000 words added
+Reduction result: pernicious 1
+59000 words added
+Reduction result: halt 1
+60000 words added
+61000 words added
+Reduction result: height 1
+Reduction result: Soft! 1
+62000 words added
+Reduction result: Burbolt. 1
+63000 words added
+64000 words added
+Reduction result: Proving 1
+65000 words added
+Reduction result: pack'd 1
+66000 words added
+Reduction result: esteemed 1
+67000 words added
+Reduction result: fray. 1
+68000 words added
+69000 words added
+Reduction result: follow'd, 1
+Reduction result: Voice, 1
+70000 words added
+Reduction result: teeth- 1
+71000 words added
+1000 queries made
+72000 words added
+Reduction result: validity, 1
+73000 words added
+Reduction result: hymns 1
+74000 words added
+Reduction result: combin'd 1
+75000 words added
+76000 words added
+Reduction result: obedience, 1
+77000 words added
+Reduction result: began? 1
+78000 words added
+Reduction result: waiting 1
+79000 words added
+80000 words added
+Reduction result: greeuance, 1
+81000 words added
+Reduction result: necessitie 1
+82000 words added
+83000 words added
+Reduction result: history 1
+84000 words added
+Reduction result: noddle 1
+85000 words added
+86000 words added
+Reduction result: shower 1
+87000 words added
+Reduction result: remote 1
+88000 words added
+Reduction result: Barbary 1
+89000 words added
+90000 words added
+Reduction result: language. 1
+91000 words added
+Reduction result: orange 1
+92000 words added
+93000 words added
+Reduction result: wash 1
+94000 words added
+Reduction result: drum. 1
+95000 words added
+96000 words added
+Reduction result: Cal 1
+97000 words added
+98000 words added
+Reduction result: sootie 1
+99000 words added
+Reduction result: fates: 1
+100000 words added
+101000 words added
+Reduction result: peace? 1
+102000 words added
+Reduction result: House: 1
+103000 words added
+104000 words added
+Reduction result: reflection 1
+105000 words added
+Reduction result: carre 1
+106000 words added
+107000 words added
+Reduction result: disgrac'd, 1
+108000 words added
+Reduction result: prince, 1
+109000 words added
+110000 words added
+Reduction result: person's 1
+111000 words added
+Reduction result: report. 1
+112000 words added
+113000 words added
+Reduction result: Thanes, 1
+114000 words added
+115000 words added
+Reduction result: Partner's 1
+116000 words added
+Reduction result: trouble: 1
+117000 words added
+118000 words added
+Reduction result: courtier, 1
+119000 words added
+Reduction result: delicious 1
+120000 words added
+Reduction result: Oh! 1
+121000 words added
+Reduction result: Embassage, 1
+122000 words added
+Reduction result: bridegroom, 1
+123000 words added
+124000 words added
+Reduction result: egg, 1
+125000 words added
+Reduction result: motive 1
+126000 words added
+Reduction result: Wee 1
+127000 words added
+128000 words added
+Reduction result: prophane 1
+129000 words added
+Reduction result: blown 1
+130000 words added
+131000 words added
+Reduction result: Colossus, 1
+132000 words added
+Reduction result: Venetian 1
+133000 words added
+Reduction result: aduenturing 1
+134000 words added
+135000 words added
+Reduction result: forfaite 1
+136000 words added
+137000 words added
+Reduction result: bonnet 1
+138000 words added
+Reduction result: fortune: 1
+139000 words added
+140000 words added
+Reduction result: find, 1
+141000 words added
+Reduction result: professions, 1
+142000 words added
+143000 words added
+Reduction result: (Of 1
+144000 words added
+2000 queries made
+Reduction result: sooth 1
+145000 words added
+146000 words added
+Reduction result: menaces 1
+147000 words added
+Reduction result: libels, 1
+148000 words added
+149000 words added
+Reduction result: attend: 1
+150000 words added
+151000 words added
+Reduction result: herein. 1
+152000 words added
+Reduction result: moon,-- 1
+153000 words added
+154000 words added
+Reduction result: pantry, 1
+155000 words added
+Reduction result: augurers 1
+156000 words added
+157000 words added
+Reduction result: Lo. 1
+158000 words added
+Reduction result: hoary-headed 1
+159000 words added
+160000 words added
+Reduction result: dignity; 1
+161000 words added
+162000 words added
+Reduction result: dimensions 1
+163000 words added
+Reduction result: bitternesse 1
+164000 words added
+165000 words added
+Reduction result: Harbour. 1
+166000 words added
+Reduction result: Hippolita? 1
+167000 words added
+168000 words added
+Reduction result: messenger: 1
+169000 words added
+Reduction result: statesman 1
+170000 words added
+171000 words added
+Reduction result: disquiet, 1
+172000 words added
+Reduction result: cancell'd 1
+173000 words added
+174000 words added
+Reduction result: whereabout, 1
+175000 words added
+176000 words added
+Reduction result: 0ws3411.txt 1
+177000 words added
+Reduction result: rocks, 1
+178000 words added
+179000 words added
+Reduction result: alarum'd 1
+180000 words added
+Reduction result: Seruice; 1
+181000 words added
+182000 words added
+Reduction result: trifles 1
+183000 words added
+Reduction result: cuore 1
+184000 words added
+185000 words added
+Reduction result: beard,' 1
+186000 words added
+187000 words added
+Reduction result: prolixity. 1
+188000 words added
+Reduction result: observance 1
+189000 words added
+190000 words added
+Reduction result: bitt'rest 1
+191000 words added
+Reduction result: cosens 1
+192000 words added
+193000 words added
+Reduction result: Children, 1
+194000 words added
+Reduction result: wax. 1
+195000 words added
+196000 words added
+Reduction result: fellow-student. 1
+197000 words added
+198000 words added
+Reduction result: condition: 1
+199000 words added
+Reduction result: shrike, 1
+200000 words added
+201000 words added
+Reduction result: wreck, 1
+202000 words added
+Reduction result: turnd 1
+203000 words added
+204000 words added
+Reduction result: edge. 1
+205000 words added
+Reduction result: hoared 1
+206000 words added
+207000 words added
+Reduction result: headlesse 1
+208000 words added
+Reduction result: content: 1
+209000 words added
+210000 words added
+Reduction result: Who? 1
+211000 words added
+212000 words added
+Reduction result: Ifaith 1
+213000 words added
+Reduction result: Disports 1
+214000 words added
+215000 words added
+Reduction result: Unworthy 1
+216000 words added
+Reduction result: did't 1
+217000 words added
+218000 words added
+Reduction result: reach'd. 1
+219000 words added
+Reduction result: Iades 1
+220000 words added
+221000 words added
+Reduction result: Faiery 1
+222000 words added
+3000 queries made
+223000 words added
+Reduction result: groanes 1
+224000 words added
+Reduction result: sailor's 1
+225000 words added
+226000 words added
+Reduction result: nurs'd 1
+227000 words added
+Reduction result: Wife) 1
+228000 words added
+229000 words added
+Reduction result: counting 1
+230000 words added
+Reduction result: askance, 1
+231000 words added
+232000 words added
+Reduction result: free: 1
+233000 words added
+234000 words added
+Reduction result: neighbour'd 1
+235000 words added
+Reduction result: owl, 1
+236000 words added
+237000 words added
+Reduction result: disswade 1
+238000 words added
+Reduction result: endeauour 1
+239000 words added
+240000 words added
+Reduction result: 'Twentie 1
+241000 words added
+Reduction result: eyeballs 1
+242000 words added
+Reduction result: whore!' 1
+243000 words added
+244000 words added
+Reduction result: inflam'd 1
+245000 words added
+Reduction result: wean'd 1
+246000 words added
+247000 words added
+Reduction result: Others, 1
+248000 words added
+Reduction result: Hence! 1
+249000 words added
+Reduction result: referr'd 1
+250000 words added
+251000 words added
+Reduction result: bragging, 1
+252000 words added
+Reduction result: la 1
+253000 words added
+254000 words added
+Reduction result: [Looks 1
+255000 words added
+Reduction result: mould, 1
+256000 words added
+257000 words added
+Reduction result: Threat 1
+258000 words added
+259000 words added
+Reduction result: expedient 1
+260000 words added
+Reduction result: lightness! 1
+261000 words added
+Reduction result: scrip 1
+262000 words added
+263000 words added
+Reduction result: Seruingman. 1
+264000 words added
+Reduction result: thunderbolts, 1
+265000 words added
+Reduction result: bless'd, 1
+266000 words added
+Reduction result: enamell'd 1
+267000 words added
+Reduction result: alowd 1
+268000 words added
+269000 words added
+Reduction result: assail 1
+270000 words added
+Reduction result: transported. 1
+271000 words added
+272000 words added
+Reduction result: nie, 1
+273000 words added
+Reduction result: nap. 1
+274000 words added
+Reduction result: surpriz'd 1
+275000 words added
+276000 words added
+Reduction result: oats. 1
+277000 words added
+Reduction result: rod. 1
+278000 words added
+Reduction result: meane: 1
+279000 words added
+280000 words added
+Reduction result: clang? 1
+281000 words added
+Reduction result: Outrun 1
+282000 words added
+Reduction result: Meale 1
+283000 words added
+284000 words added
+Reduction result: Warwick's 1
+285000 words added
+Reduction result: hall! 1
+286000 words added
+Reduction result: swallowed 1
+287000 words added
+Reduction result: Team. 1
+288000 words added
+289000 words added
+Reduction result: griefes 1
+290000 words added
+Reduction result: Disdaine! 1
+291000 words added
+Reduction result: refuse. 1
+292000 words added
+293000 words added
+Reduction result: lad. 1
+4000 queries made
+294000 words added
+Reduction result: neighbour'd 1
+295000 words added
+296000 words added
+Reduction result: hiss'd 1
+297000 words added
+Reduction result: Whipp'd 1
+298000 words added
+Reduction result: Tribute 1
+299000 words added
+300000 words added
+Reduction result: ensnare 1
+301000 words added
+Reduction result: Seas; 1
+302000 words added
+Reduction result: fruitful. 1
+303000 words added
+Reduction result: Cleane 1
+304000 words added
+Reduction result: Fustian 1
+305000 words added
+Reduction result: anchors, 1
+Done Reading pg1514.txt
+306000 words added
+Reduction result: minute; 1
+307000 words added
+Reduction result: men) 1
+308000 words added
+Reduction result: deliuered. 1
+309000 words added
+Reduction result: Dido? 1
+310000 words added
+311000 words added
+Reduction result: Torches, 1
+Reduction result: posts 1
+312000 words added
+Done Reading pg1041.txt
+Reduction result: scent 1
+313000 words added
+Done Reading pg2242.txt
+314000 words added
+Reduction result: Marga. 1
+315000 words added
+Reduction result: Bullockes: 1
+316000 words added
+Reduction result: brief: 1
+Done Reading pg2235.txt
+317000 words added
+Reduction result: Machine 1
+318000 words added
+Reduction result: "Brutus" 1
+319000 words added
+320000 words added
+Done Reading pg1129.txt
+Reduction result: Torches, 1
+321000 words added
+Reduction result: o'er-green 1
+322000 words added
+Reduction result: stiffly 1
+Done Reading pg2264.txt
+323000 words added
+Reduction result: hainous 1
+324000 words added
+Reduction result: 1ws2411.txt 1
+325000 words added
+Reduction result: gluttoning 1
+326000 words added
+Reduction result: accusers 1
+327000 words added
+Reduction result: Merrily, 1
+Reduction result: fauorably 1
+328000 words added
+Reduction result: gentlefolks. 1
+329000 words added
+Reduction result: dote. 1
+330000 words added
+Reduction result: proud-minded; 1
+331000 words added
+Reduction result: XCVII 1
+332000 words added
+Reduction result: waited 1
+333000 words added
+Reduction result: Il'd 1
+334000 words added
+Reduction result: Sisters? 1
+335000 words added
+Reduction result: trivial, 1
+336000 words added
+Reduction result: stage; 1
+337000 words added
+Reduction result: coniunctiue 1
+338000 words added
+Reduction result: bows? 1
+339000 words added
+Reduction result: reconciles 1
+340000 words added
+Reduction result: Forbear 1
+341000 words added
+Reduction result: ducats? 1
+342000 words added
+Reduction result: Musitian, 1
+343000 words added
+Reduction result: shouted. 1
+344000 words added
+Reduction result: Shows 1
+345000 words added
+Reduction result: High 1
+346000 words added
+Reduction result: vext, 1
+Done Reading pg1120.txt
+5000 queries made
+Reduction result: annoy 1
+347000 words added
+Reduction result: roughness, 1
+348000 words added
+Reduction result: Wood: 1
+349000 words added
+Reduction result: Mexico, 1
+350000 words added
+Reduction result: ariseth 1
+351000 words added
+Reduction result: Treachery? 1
+352000 words added
+Reduction result: Mowsing 1
+353000 words added
+Reduction result: plotted. 1
+354000 words added
+Reduction result: maz'd 1
+Reduction result: command?' 1
+355000 words added
+Reduction result: Wharfe, 1
+356000 words added
+Reduction result: birth-strangled 1
+357000 words added
+Reduction result: Rascall, 1
+358000 words added
+Done Reading pg1107.txt
+Reduction result: vein: 1
+359000 words added
+Reduction result: annoy'd 1
+Reduction result: overboard 1
+360000 words added
+Reduction result: Bonfire. 1
+Reduction result: Brute?- 1
+361000 words added
+Reduction result: onward 1
+362000 words added
+Done Reading pg2243.txt
+Reduction result: XXIII 1
+363000 words added
+Reduction result: deuises 1
+Done Reading pg2240.txt
+Reduction result: conscience) 1
+364000 words added
+Reduction result: growne, 1
+Reduction result: Bernardo? 1
+365000 words added
+Reduction result: stooles. 1
+366000 words added
+Reduction result: scorne? 1
+Reduction result: Centinell, 1
+367000 words added
+Reduction result: gardens, 1
+Reduction result: gav'st, 1
+368000 words added
+Reduction result: freezings 1
+Reduction result: land: 1
+369000 words added
+Reduction result: perseuer, 1
+370000 words added
+Reduction result: beard- 1
+Reduction result: gaudy 1
+Reduction result: skirre 1
+371000 words added
+Reduction result: desartlesse 1
+Reduction result: film; 1
+Reduction result: favourites 1
+372000 words added
+Reduction result: frayes 1
+Reduction result: outrage. 1
+373000 words added
+Reduction result: salve 1
+Reduction result: However 1
+374000 words added
+Reduction result: Chace, 1
+Reduction result: Streets. 1
+375000 words added
+Reduction result: delivery. 1
+Reduction result: Prudence, 1
+376000 words added
+Reduction result: spited, 1
+Reduction result: deuoted, 1
+Reduction result: hell: 1
+377000 words added
+Reduction result: skirr 1
+Reduction result: CVIII 1
+378000 words added
+Reduction result: tother 1
+6000 queries made
+379000 words added
+Reduction result: repenting, 1
+Reduction result: poetry, 1
+380000 words added
+Reduction result: substance. 1
+Reduction result: maiden's 1
+381000 words added
+Reduction result: Lancaster! 1
+Reduction result: soles. 1
+382000 words added
+Reduction result: feater 1
+Reduction result: Ercles' 1
+383000 words added
+Reduction result: drunk, 1
+384000 words added
+Reduction result: Skarfe 1
+Reduction result: curtsie 1
+385000 words added
+Reduction result: swan 1
+Reduction result: Wherewith 1
+386000 words added
+Reduction result: wing,-- 1
+Reduction result: bear? 1
+387000 words added
+Reduction result: deem'd. 1
+388000 words added
+Reduction result: whore: 1
+Reduction result: pinch, 1
+Done Reading pg1112.txt
+389000 words added
+Reduction result: accurst, 1
+Reduction result: part) 1
+Reduction result: Pipe 1
+390000 words added
+Reduction result: XVIII 1
+Reduction result: away!--Go 1
+391000 words added
+Done Reading pg1128.txt
+Reduction result: inky 1
+Reduction result: corner? 1
+Reduction result: supt: 1
+392000 words added
+Reduction result: Murderers, 1
+Reduction result: Louder 1
+Reduction result: aduenturous 1
+393000 words added
+Reduction result: Pallaces: 1
+Reduction result: Swan-like 1
+Done Reading pg2267.txt
+Reduction result: make,-- 1
+Reduction result: distemp'rature; 1
+394000 words added
+Reduction result: baldricke, 1
+Reduction result: urg'd; 1
+Reduction result: ranker 1
+Reduction result: hemlock, 1
+395000 words added
+Reduction result: frekelld 1
+Reduction result: Trumpet, 1
+Reduction result: boneless 1
+Reduction result: gosse, 1
+396000 words added
+Reduction result: 'dost 1
+Reduction result: helms, 1
+Reduction result: lame! 1
+Reduction result: triumph; 1
+397000 words added
+Reduction result: Byrnane, 1
+Reduction result: obligation, 1
+Reduction result: flourish'd 1
+398000 words added
+Reduction result: young: 1
+Reduction result: palter? 1
+7000 queries made
+Reduction result: Peere: 1
+399000 words added
+Reduction result: shin. 1
+Reduction result: Moues 1
+Reduction result: carefull 1
+Reduction result: becomes, 1
+400000 words added
+Done Reading pg2265.txt
+Reduction result: wax. 1
+Reduction result: flaw'd 1
+Reduction result: thee,--myself,--that 1
+Reduction result: Peregenia, 1
+Reduction result: affoord 1
+401000 words added
+Reduction result: passion; 1
+Reduction result: prophets. 1
+Reduction result: murder!--Pray 1
+Done Reading pg1103.txt
+Reduction result: nod; 1
+Reduction result: cal'd? 1
+Reduction result: Nobles, 1
+Reduction result: o'erstep 1
+402000 words added
+Reduction result: Wisedomes, 1
+Reduction result: conueniencie 1
+Done Reading pg1524.txt
+Stopping Askers
+Map Stopped
+
+Total words added:   402163
+Total queries made:  7383
+Execution time:  38.487428555s
